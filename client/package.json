@@ -9,6 +9,10 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@fontsource-variable/anek-latin": "^5.3.0",
+    "@fontsource/hind": "^5.3.0",
+    "lucide-react": "^1.65.0",
+    "maplibre-gl": "^5.6.2",
     "react": "^19.3.1",
     "react-dom": "^19.3.1"
   },

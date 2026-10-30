@@ -8,7 +8,7 @@
 
 | Column | Meaning |
 |---|---|
-| `layer` | `charger`, `ev_registrations`, `demographics`, `economy`, `grid`, `roads` |
+| `layer` | `charger`, `charger_official`, `ev_registrations`, `ev_registrations_rto`, `demographics`, `economy`, `grid`, `roads`, `context` |
 | `source` | Where the row came from |
 | `level` | `point` (has lat/lon), `district`, `state`, `national` |
 | `state`, `district` | Upper-case names (blank for points without them; spatial-join on lat/lon) |
@@ -24,3 +24,17 @@ EV count = `registrations_ELECTRIC(BOV)` + `registrations_PURE EV`. `registratio
 ```sh
 uv run --no-project --with pandas --with pyarrow --with openpyxl python scripts/build_data_csv.py
 ```
+
+## Git-ignored raw files
+
+Fetch these into `data/raw/` before running the build and pipeline. Source details are in the **Data sources** section of the root README.
+
+| File | Why it is not in git | Needed by |
+|---|---|---|
+| `raw/chargers/bee_evyatra_snapshot_2024-12.csv` | Holds contact names and phone numbers; no licence on the public GitHub copy | `scripts/build_data_csv.py` (contact columns are not merged) |
+| `raw/vahan_rto/` (`fuel.csv`, `vehicle_class.csv`, `vehicle_category.csv`) | Large (India Data Portal, ODC-BY). Exclude RTO code `HR207`: it is an all-India total | `scripts/build_data_csv.py`, pipeline step 02 |
+| `raw/roads/morth_national_highways.parquet` | Large (PM GatiShakti, June 2022) | pipeline step 04 |
+
+Without them the build stops at those inputs.
+
+`charger_pending` holds Zeon stations collected after the Round 1 figures were fixed. The pipeline skips this layer until it is promoted to `charger`.

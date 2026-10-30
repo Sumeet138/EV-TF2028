@@ -44,11 +44,76 @@ def chargers():
     } for e in osm])
     nat = pd.read_csv(RAW / "chargers/pcs_national_totals_rajyasabha.csv")
     nat = pd.DataFrame({"year": nat.as_on, "metric": "public_charging_stations", "value": nat.no_of_pcs})
+    bee = pd.read_csv(RAW / "chargers/bee_evyatra_snapshot_2024-12.csv", low_memory=False,
+                      usecols=["station_name", "lat", "lng", "state_name", "city_name", "st_owner", "address"])
+    bee = pd.DataFrame({
+        "name": bee.station_name, "state": up(bee.state_name), "district": up(bee.city_name),
+        "lat": bee.lat, "lon": bee.lng, "detail": "operator=" + bee.st_owner.fillna("").astype(str),
+    })
+    ocm = pd.DataFrame([{
+        "name": p["AddressInfo"].get("Title"), "lat": p["AddressInfo"].get("Latitude"),
+        "lon": p["AddressInfo"].get("Longitude"), "detail": f"ocm_id={p.get('ID')}",
+    } for p in json.load(open(RAW / "chargers/ocm_india_export.json"))])
+    ops = [points("charger", f"{name} locator", pd.DataFrame([{
+        "name": s.get("name"), "lat": s.get("lat"), "lon": s.get("lon"), "detail": s.get("address"),
+    } for s in json.load(open(RAW / f"chargers/cpo_{name.lower()}.json"))["stations"]]))
+        for name in ("Ola", "ChargeMOD", "Relux")]
+    # Zeon arrived after the Round 1 figures were fixed: separate layer, so the pipeline skips it until the next rerun
+    zeon = pd.DataFrame(json.load(open(RAW / "chargers/cpo_zeon.json"))["stations"])[["name", "lat", "lon", "address"]].rename(columns={"address": "detail"})
     return [
         points("charger", "Tata Power EZ Charge map", tp, metric="connectors").assign(value=tp.value),
         points("charger", "Statiq map", sq),
         points("charger", "OpenStreetMap", osm),
+        points("charger", "BEE EV Yatra snapshot Dec 2024", bee),
+        points("charger", "Open Charge Map", ocm),
+        *ops,
+        points("charger_pending", "Zeon locator", zeon),
         nat.assign(layer="charger", source="Rajya Sabha Q3929 via data.gov.in", level="national"),
+    ]
+
+
+def official():
+    o = pd.read_csv(RAW / "chargers/official_statewise_counts.csv").melt("state", var_name="metric").dropna()
+    o = o[o.state != "Total"]
+    return [o.assign(state=up(o.state), layer="charger_official", source="Parliament replies and PIB", level="state")]
+
+
+def vahan_rto():
+    # layer is separate from ev_registrations so the pipeline's state totals stay unchanged
+    f = pd.read_csv(RAW / "vahan_rto/fuel.csv")
+    # HR207 is an all-India total under a dealer label, so it would double count
+    f = f[f.registration_type.isin(["Electric(BOV)", "Pure EV"]) & (f.rto_code != "HR207")]
+    f = f.groupby(["state_name", "rto", "rto_code", f.date.str[:4].rename("year"), "registration_type"],
+                  as_index=False).registrations.sum()
+    return [pd.DataFrame({
+        "layer": "ev_registrations_rto", "source": "India Data Portal VAHAN", "level": "rto", "state": up(f.state_name),
+        "name": f.rto, "year": f.year, "metric": "registrations_" + f.registration_type.str.upper(),
+        "value": f.registrations, "detail": f.rto_code,
+    })]
+
+
+def osm_points(file, metric):
+    els = json.load(open(RAW / "context" / file))["elements"]
+    return points("context", "OpenStreetMap", pd.DataFrame([{
+        "name": e.get("tags", {}).get("name"),
+        "lat": e.get("lat", e.get("center", {}).get("lat")), "lon": e.get("lon", e.get("center", {}).get("lon")),
+    } for e in els]), metric=metric)
+
+
+def geojson_points(file, metric, source):
+    feats = json.load(open(RAW / "context" / file))["features"]
+    return points("context", source, pd.DataFrame([{
+        "name": f["properties"].get("name") or f["properties"].get("Name"),
+        "lat": f["geometry"]["coordinates"][1], "lon": f["geometry"]["coordinates"][0],
+    } for f in feats if f.get("geometry") and f["geometry"]["type"] == "Point"]), metric=metric)
+
+
+def context():
+    return [
+        osm_points("osm_fuel.json", "fuel_station"), osm_points("osm_tourism.json", "tourism_site"),
+        osm_points("osm_industrial.json", "industrial_area"),
+        geojson_points("airports_points.geojson", "airport", "OpenStreetMap via HOT"),
+        geojson_points("power_plants.geojson", "power_plant", "CEA via INDIAN-SHAPEFILES"),
     ]
 
 
@@ -103,7 +168,8 @@ def infra():
 
 
 if __name__ == "__main__":
-    df = pd.concat([*chargers(), *vahan(), *demographics(), *infra()], ignore_index=True).reindex(columns=COLS)
+    df = pd.concat([*chargers(), *official(), *vahan(), *vahan_rto(), *demographics(), *infra(), *context()],
+                   ignore_index=True).reindex(columns=COLS)
     df.to_csv(OUT, index=False)
     print(OUT, len(df), "rows")
     print(df.groupby(["layer", "source"]).size().to_string())

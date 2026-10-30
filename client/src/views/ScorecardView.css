@@ -1,0 +1,36 @@
+.sc { padding: var(--sp-5); display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--sp-4); align-content: start; max-width: 1200px; }
+.sc-head, .sc-span { grid-column: 1 / -1; }
+.sc-head h1 { font: 700 var(--fs-28)/1.1 var(--font-display); margin: 0 0 var(--sp-2); }
+.sc-finding { font-size: var(--fs-20); line-height: 1.35; max-width: 70ch; margin: 0; text-wrap: balance; }
+.sc-pair { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--sp-5); }
+.sc-fig { margin: 0; min-width: 0; }
+.sc-fig figcaption { font-size: var(--fs-13); font-weight: 600; color: var(--ink-soft); margin-bottom: var(--sp-1); }
+.sc-fig svg { width: 100%; height: auto; display: block; }
+.sc-tick { font-size: 11px; fill: var(--ink-soft); }
+.sc-label { font-size: 12px; font-weight: 600; fill: var(--ink); }
+.sc-note, .sc-muted, .sc-hint { font-size: var(--fs-13); color: var(--ink-soft); margin: var(--sp-2) 0 0; max-width: 70ch; }
+.sc-hint { margin: 0 0 var(--sp-3); }
+.sc-link { background: none; border: 0; padding: 0; font: inherit; color: var(--indigo-dye); text-decoration: underline; cursor: pointer; }
+.sc-hint a { color: var(--indigo-dye); }
+.sc-table { max-height: 420px; }
+.sc-band { display: inline-flex; align-items: center; gap: var(--sp-2); white-space: nowrap; }
+.sc-band i { width: 10px; height: 10px; border-radius: 2px; display: inline-block; background: var(--gap-none); }
+.sc-band[data-b="1"] i { background: var(--gap-1); }
+.sc-band[data-b="2"] i { background: var(--gap-2); }
+.sc-band[data-b="3"] i { background: var(--gap-3); }
+.sc-band[data-b="4"] i { background: var(--gap-4); }
+.sc-band[data-b="5"] i { background: var(--gap-5); }
+.sc-metrics { display: flex; flex-wrap: wrap; gap: var(--sp-3) var(--sp-6); margin: var(--sp-4) 0 0; }
+.sc-metrics .stat dd { font: 700 var(--fs-28)/1.1 var(--font-display); margin: 0; }
+.sc-metrics .stat dt { font-size: var(--fs-13); color: var(--ink-soft); }
+.sc-clickable li { cursor: pointer; }
+.sc-links { margin-top: var(--sp-3); font-size: var(--fs-13); }
+.sc-links ul { columns: 2; padding-left: var(--sp-4); margin: var(--sp-2) 0 0; }
+.sc-links a { color: var(--indigo-dye); }
+@media (max-width: 900px) {
+  .sc-pair { grid-template-columns: 1fr; }
+}
+@media (max-width: 700px) {
+  .sc { grid-template-columns: minmax(0, 1fr); padding: var(--sp-4); }
+  .sc-finding { font-size: var(--fs-16); }
+}

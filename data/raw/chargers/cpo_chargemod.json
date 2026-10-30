@@ -1,0 +1,1770 @@
+{
+"source": "chargemod.com/chargers/* city pages, JSON-LD ItemList (first 25 per page only)",
+"fetched": "2026-10-30",
+"count": 194,
+"page_totals_claimed": {
+"kerala": 1704,
+"bengaluru": 50,
+"delhi-ncr": 3,
+"pune": 13,
+"mumbai": 5,
+"thiruvananthapuram": 210,
+"hyderabad": 48,
+"jaipur": 7,
+"chennai": 6,
+"vijayawada": 5,
+"kochi": 275,
+"ahmedabad": 4,
+"mysuru": 1,
+"kollam": 175
+},
+"partial": true,
+"stations": [
+{
+"name": "KSEB10 CB 865 Areekode",
+"lat": 11.2394471,
+"lon": 76.0468447,
+"address": "Pathanapuram, Areekode",
+"operator": "chargeMOD",
+"listing": "kerala",
+"source_url": "https://chargemod.com/chargers/kerala"
+},
+{
+"name": "KSEB10 CB 866 Ayyottichira",
+"lat": 10.714726,
+"lon": 75.952943,
+"address": "NH 66,, Veliancode",
+"operator": "chargeMOD",
+"listing": "kerala",
+"source_url": "https://chargemod.com/chargers/kerala"
+},
+{
+"name": "KSEB10 CB 867 Vazhakkad",
+"lat": 11.247902,
+"lon": 75.951008,
+"address": "Near IQRAA Community Hospital, Kozhikkode-Edavannappara-Areekode Road",
+"operator": "chargeMOD",
+"listing": "kerala",
+"source_url": "https://chargemod.com/chargers/kerala"
+},
+{
+"name": "KSEB10 CB 868 Puchakuth",
+"lat": 11.3299,
+"lon": 76.273576,
+"address": "Chungathara, Nilambur - Chungathara Rd, Nilambur",
+"operator": "chargeMOD",
+"listing": "kerala",
+"source_url": "https://chargemod.com/chargers/kerala"
+},
+{
+"name": "KSEBX CB 869",
+"lat": 10.983259,
+"lon": 76.189271,
+"address": "Kozhikode - Palakkad Hwy, Tirurkad",
+"operator": "chargeMOD",
+"listing": "kerala",
+"source_url": "https://chargemod.com/chargers/kerala"
+},
+{
+"name": "KSEB14 CB 870 Chattanchal",
+"lat": 12.479624,
+"lon": 75.056736,
+"address": "Kalanad Road, Chattanchal",
+"operator": "chargeMOD",
+"listing": "kerala",
+"source_url": "https://chargemod.com/chargers/kerala"
+},
+{
+"name": "KSEB10 CB 871 Keezhillam",
+"lat": 10.78223,
+"lon": 75.936329,
+"address": "Chanthappadi Junction, Keezhillam",
+"operator": "chargeMOD",
+"listing": "kerala",
+"source_url": "https://chargemod.com/chargers/kerala"
+},
+{
+"name": "KSEB10 CB 872 Kizhuparamba",
+"lat": 11.246499,
+"lon": 76.047347,
+"address": "Near KSEB Section Office, Pathanapuram",
+"operator": "chargeMOD",
+"listing": "kerala",
+"source_url": "https://chargemod.com/chargers/kerala"
+},
+{
+"name": "KSEB10 CB 874 Kizhakkethala",
+"lat": 11.051541,
+"lon": 76.072626,
+"address": "Oppsosite Indian Oil Petrol Pump, Kizhakkethala",
+"operator": "chargeMOD",
+"listing": "kerala",
+"source_url": "https://chargemod.com/chargers/kerala"
+},
+{
+"name": "KSEB10 CB 875 PATTIKKAD",
+"lat": 11.017215,
+"lon": 76.231494,
+"address": "Karuvarakundu - Perinthalmanna Rd, Chungam, Pattikkad",
+"operator": "chargeMOD",
+"listing": "kerala",
+"source_url": "https://chargemod.com/chargers/kerala"
+},
+{
+"name": "KSEB14 CB 876 Padanakkad",
+"lat": 12.265682,
+"lon": 75.114416,
+"address": "Kalluravi Kanhangad Rd, Padanakkad",
+"operator": "chargeMOD",
+"listing": "kerala",
+"source_url": "https://chargemod.com/chargers/kerala"
+},
+{
+"name": "KSEB10 CB 877 Edavannappara",
+"lat": 11.245635,
+"lon": 75.979427,
+"address": "Mamatha Grand City, Kozhikkode-Edavannappara-Areekode Road",
+"operator": "chargeMOD",
+"listing": "kerala",
+"source_url": "https://chargemod.com/chargers/kerala"
+},
+{
+"name": "KSEB10 CB 878 Ponnani",
+"lat": 10.784112,
+"lon": 75.949275,
+"address": "Guruvayur - Althara - Ponnani Rd, Ponnani",
+"operator": "chargeMOD",
+"listing": "kerala",
+"source_url": "https://chargemod.com/chargers/kerala"
+},
+{
+"name": "KSEB14 CB 879 Kovalpally",
+"lat": 12.301964,
+"lon": 75.099682,
+"address": "Edappally - Panvel Hwy, Kanhangad",
+"operator": "chargeMOD",
+"listing": "kerala",
+"source_url": "https://chargemod.com/chargers/kerala"
+},
+{
+"name": "KSEB10 CB 880 Pongalloor",
+"lat": 11.235948,
+"lon": 76.165185,
+"address": "Nilambur - Malappuram Rd, Mampad",
+"operator": "chargeMOD",
+"listing": "kerala",
+"source_url": "https://chargemod.com/chargers/kerala"
+},
+{
+"name": "KSEB12 CB 881 Meenangadi",
+"lat": 11.655637,
+"lon": 76.158806,
+"address": "NH 766, Meenangadi",
+"operator": "chargeMOD",
+"listing": "kerala",
+"source_url": "https://chargemod.com/chargers/kerala"
+},
+{
+"name": "KSEB10 CB 882 Alathiyoor",
+"lat": 10.85546,
+"lon": 75.938696,
+"address": "Ponnani - Tirur Rd, Alathiyoor",
+"operator": "chargeMOD",
+"listing": "kerala",
+"source_url": "https://chargemod.com/chargers/kerala"
+},
+{
+"name": "KSEB14 CB 884 Chayoth",
+"lat": 12.287624,
+"lon": 75.193598,
+"address": "Malom - Elerithattu - Nileshwar Rd, Chayoth",
+"operator": "chargeMOD",
+"listing": "kerala",
+"source_url": "https://chargemod.com/chargers/kerala"
+},
+{
+"name": "KSEB10 CB 885 Mankada",
+"lat": 11.022533,
+"lon": 76.172269,
+"address": "Anakkayam - Tirurkad Rd, Mankada",
+"operator": "chargeMOD",
+"listing": "kerala",
+"source_url": "https://chargemod.com/chargers/kerala"
+},
+{
+"name": "KSEB10 CB 886 Pookottumpadam",
+"lat": 11.240193,
+"lon": 76.304482,
+"address": "Near Govt LP School, Payampadam",
+"operator": "chargeMOD",
+"listing": "kerala",
+"source_url": "https://chargemod.com/chargers/kerala"
+},
+{
+"name": "KSEB14 CB 887 Thayalangadi",
+"lat": 12.49254,
+"lon": 74.987773,
+"address": "Railway Station Road, Thayalangadi",
+"operator": "chargeMOD",
+"listing": "kerala",
+"source_url": "https://chargemod.com/chargers/kerala"
+},
+{
+"name": "KSEB14 CB 888 Kasargod",
+"lat": 12.5083756,
+"lon": 74.99475195,
+"address": "Kasargod New Bus Stand, Choori",
+"operator": "chargeMOD",
+"listing": "kerala",
+"source_url": "https://chargemod.com/chargers/kerala"
+},
+{
+"name": "KSEB14 CB 889 Nileshwar",
+"lat": 12.255544,
+"lon": 75.129882,
+"address": "Near Krishi Bhavan, Nileshwaram \u2013 Edathode Rd",
+"operator": "chargeMOD",
+"listing": "kerala",
+"source_url": "https://chargemod.com/chargers/kerala"
+},
+{
+"name": "KSEB10 CB 890 Chamravattom",
+"lat": 10.81936,
+"lon": 75.965569,
+"address": "Near Chamravattom Bridge, Edappal - Tirur Rd, Chamravattom",
+"operator": "chargeMOD",
+"listing": "kerala",
+"source_url": "https://chargemod.com/chargers/kerala"
+},
+{
+"name": "KSEB10 CB 891 Kavanur",
+"lat": 11.201677,
+"lon": 76.06439,
+"address": "Areekode - Manjeri Rd, Kavanur",
+"operator": "chargeMOD",
+"listing": "kerala",
+"source_url": "https://chargemod.com/chargers/kerala"
+},
+{
+"name": "BMTC Yeshwantpur Bus Depo | NTPC",
+"lat": 13.017886,
+"lon": 77.556194,
+"address": "This is only for BMTC Vehicles, Yeswanthpur, Dr. Ambedkar Nagar",
+"operator": "chargeMOD",
+"listing": "bengaluru",
+"source_url": "https://chargemod.com/chargers/bengaluru"
+},
+{
+"name": "Vijaya Enclave |Bilekahalli| Private Station",
+"lat": 12.894386,
+"lon": 77.610254,
+"address": "Sir M. Visvesvaraya Road, Kutappa Garden, Vijaya Bank Layout",
+"operator": "chargeMOD",
+"listing": "bengaluru",
+"source_url": "https://chargemod.com/chargers/bengaluru"
+},
+{
+"name": "chargeMOD Strategy Center | Bengaluru",
+"lat": 12.893672,
+"lon": 77.618808,
+"address": "Ground Floor,Suraj Residency,149,2nd Cross., Muneshwara Layout, Devarachiknahalli",
+"operator": "chargeMOD",
+"listing": "bengaluru",
+"source_url": "https://chargemod.com/chargers/bengaluru"
+},
+{
+"name": "TEST ATOMZ",
+"lat": 12.983197,
+"lon": 77.509427,
+"address": "TESTING, TESTING",
+"operator": "chargeMOD",
+"listing": "bengaluru",
+"source_url": "https://chargemod.com/chargers/bengaluru"
+},
+{
+"name": "Ather Fast Charger | Atomz office Kandhaya Nagar",
+"lat": 12.983188,
+"lon": 77.509422,
+"address": "58/1, 1st Cross, Kandhaya Nagar, Srigandhada Kaval, 2nd Stage, Nagarbhavi",
+"operator": "chargeMOD",
+"listing": "bengaluru",
+"source_url": "https://chargemod.com/chargers/bengaluru"
+},
+{
+"name": "Sobha Quartz | Bellandur",
+"lat": 12.924814,
+"lon": 77.669357,
+"address": "Green Glen Layout, Bellandur",
+"operator": "chargeMOD",
+"listing": "bengaluru",
+"source_url": "https://chargemod.com/chargers/bengaluru"
+},
+{
+"name": "Amaron 60kW | PFC | Private Station",
+"lat": 12.885076,
+"lon": 77.564163,
+"address": "Anjanadri Layout, Prestige Falcon City, Konanakunte, Bengaluru",
+"operator": "chargeMOD",
+"listing": "bengaluru",
+"source_url": "https://chargemod.com/chargers/bengaluru"
+},
+{
+"name": "BMTC K.R Puram Bus Depo | NTPC",
+"lat": 13.004786,
+"lon": 77.691426,
+"address": "This is only for BMTC Vehicles, KR Puram, Duravani Nagar",
+"operator": "chargeMOD",
+"listing": "bengaluru",
+"source_url": "https://chargemod.com/chargers/bengaluru"
+},
+{
+"name": "Brigade Omega | Subramanyapura | Private Station",
+"lat": 12.893021,
+"lon": 77.529042,
+"address": "80 Feet Rd, Bharath Housing Society Layout, Subramanyapura",
+"operator": "chargeMOD",
+"listing": "bengaluru",
+"source_url": "https://chargemod.com/chargers/bengaluru"
+},
+{
+"name": "Purva Panorama | 3.3kW | Private Station",
+"lat": 12.866701,
+"lon": 77.592416,
+"address": "Private Station, Purva Panorama Apartment",
+"operator": "chargeMOD",
+"listing": "bengaluru",
+"source_url": "https://chargemod.com/chargers/bengaluru"
+},
+{
+"name": "Purva Panorama | 7.4kW | Private Station",
+"lat": 12.866695,
+"lon": 77.592417,
+"address": "Private Station, Purva Panorama Apartment",
+"operator": "chargeMOD",
+"listing": "bengaluru",
+"source_url": "https://chargemod.com/chargers/bengaluru"
+},
+{
+"name": "BMTC Kengeri Bus Depo | NTPC",
+"lat": 12.913391,
+"lon": 77.487868,
+"address": "This is only for BMTC Vehicles, Kengeri, Opp. Police Station, Mailasandra",
+"operator": "chargeMOD",
+"listing": "bengaluru",
+"source_url": "https://chargemod.com/chargers/bengaluru"
+},
+{
+"name": "Prestige Jindal B1T2 | Base 3",
+"lat": 13.053945,
+"lon": 77.489124,
+"address": "PRESTIGE JINDAL , Building 1, Building 1, Tower 1",
+"operator": "chargeMOD",
+"listing": "bengaluru",
+"source_url": "https://chargemod.com/chargers/bengaluru"
+},
+{
+"name": "Prestige Jindal | Building 1 | Tower 3 | Basement 3",
+"lat": 13.054182,
+"lon": 77.489207,
+"address": "3F3Q MMG, Bengaluru, Karnataka",
+"operator": "chargeMOD",
+"listing": "bengaluru",
+"source_url": "https://chargemod.com/chargers/bengaluru"
+},
+{
+"name": "Prestige Jindal | Building 1 | Tower 2 | Basement 3",
+"lat": 13.054209,
+"lon": 77.48922,
+"address": "3F3Q MMG, Bengaluru, Karnataka",
+"operator": "chargeMOD",
+"listing": "bengaluru",
+"source_url": "https://chargemod.com/chargers/bengaluru"
+},
+{
+"name": "Prestige Jindal | Building 1 | Tower 1 | Basement 2 Exit",
+"lat": 13.053755,
+"lon": 77.488762,
+"address": "Building 1, Tower 1, Basement 2 exit",
+"operator": "chargeMOD",
+"listing": "bengaluru",
+"source_url": "https://chargemod.com/chargers/bengaluru"
+},
+{
+"name": "G2743 | B1T2 - Base2 | Prestige Jindal",
+"lat": 13.05368,
+"lon": 77.488472,
+"address": "Building 1, Tower 2 , Basement 2",
+"operator": "chargeMOD",
+"listing": "bengaluru",
+"source_url": "https://chargemod.com/chargers/bengaluru"
+},
+{
+"name": "G2788 | B1T2 - Base2 | Prestige Jindal",
+"lat": 13.05368,
+"lon": 77.488472,
+"address": "Building 1, Tower 2 , Basement 2",
+"operator": "chargeMOD",
+"listing": "bengaluru",
+"source_url": "https://chargemod.com/chargers/bengaluru"
+},
+{
+"name": "G1017 | B2T1 - Base3 | Prestige Jindal",
+"lat": 13.05379,
+"lon": 77.488339,
+"address": "PRESTIGE JINDAL , Building 2, Tower 1 | Basement 3",
+"operator": "chargeMOD",
+"listing": "bengaluru",
+"source_url": "https://chargemod.com/chargers/bengaluru"
+},
+{
+"name": "Prestige Jindal | B4T1 | Base2",
+"lat": 13.054849,
+"lon": 77.489182,
+"address": "PRESTIGE JINDAL , Building 4, Tower 1 | Basement 2",
+"operator": "chargeMOD",
+"listing": "bengaluru",
+"source_url": "https://chargemod.com/chargers/bengaluru"
+},
+{
+"name": "G1018 | B2T2 - Base2 | Prestige Jindal",
+"lat": 13.054322,
+"lon": 77.488648,
+"address": "PRESTIGE JINDAL , Building 2, Tower 2 | Basement 2",
+"operator": "chargeMOD",
+"listing": "bengaluru",
+"source_url": "https://chargemod.com/chargers/bengaluru"
+},
+{
+"name": "Prestige Jindal | Building 4 | Tower 1",
+"lat": 13.056148,
+"lon": 77.489842,
+"address": "Bulding 4, Tower 1",
+"operator": "chargeMOD",
+"listing": "bengaluru",
+"source_url": "https://chargemod.com/chargers/bengaluru"
+},
+{
+"name": "Prestige Jindal | Building 4 | Tower 2",
+"lat": 13.056149,
+"lon": 77.489838,
+"address": "Bulding 4, Tower 2",
+"operator": "chargeMOD",
+"listing": "bengaluru",
+"source_url": "https://chargemod.com/chargers/bengaluru"
+},
+{
+"name": "Prestige Jindal | Building 2 | Tower 4 | Basement 2",
+"lat": 13.056149,
+"lon": 77.489838,
+"address": "Building 2, Tower 4 , Basement 2",
+"operator": "chargeMOD",
+"listing": "bengaluru",
+"source_url": "https://chargemod.com/chargers/bengaluru"
+},
+{
+"name": "Prestige Jindal | Building 4 | Tower 3 | Basement 1",
+"lat": 13.056148,
+"lon": 77.489836,
+"address": "Bulding 4, Tower 3 , Basement 1",
+"operator": "chargeMOD",
+"listing": "bengaluru",
+"source_url": "https://chargemod.com/chargers/bengaluru"
+},
+{
+"name": "CAPFIMS Campus EVCS | New Delhi",
+"lat": 28.474626,
+"lon": 77.213751,
+"address": "CAPFIMS Campus, Asola Wild Life Sanctuary, Maidan Garhi, New Delhi, South West",
+"operator": "chargeMOD",
+"listing": "delhi-ncr",
+"source_url": "https://chargemod.com/chargers/delhi-ncr"
+},
+{
+"name": "Visitors Parking EVCS | Gurugram",
+"lat": 28.426866,
+"lon": 77.033729,
+"address": "Central Park resort parking, Central Park II, Sector 48",
+"operator": "chargeMOD",
+"listing": "delhi-ncr",
+"source_url": "https://chargemod.com/chargers/delhi-ncr"
+},
+{
+"name": "Bharat EVCS | Malha Majra",
+"lat": 28.893446,
+"lon": 77.038741,
+"address": "Near Radiance Printpack, Kheri Manajat",
+"operator": "chargeMOD",
+"listing": "delhi-ncr",
+"source_url": "https://chargemod.com/chargers/delhi-ncr"
+},
+{
+"name": "Aryabhatta Campus",
+"lat": 18.5104057,
+"lon": 73.807709,
+"address": "9a, Aryabhata-Pingala, Kashibai Khilare Path",
+"operator": "chargeMOD",
+"listing": "pune",
+"source_url": "https://chargemod.com/chargers/pune"
+},
+{
+"name": "Pingala 4W Parking",
+"lat": 18.5104057,
+"lon": 73.807709,
+"address": "9a, Aryabhata-Pingala, Kashibai Khilare Path",
+"operator": "chargeMOD",
+"listing": "pune",
+"source_url": "https://chargemod.com/chargers/pune"
+},
+{
+"name": "Yajurveda 4W Parking",
+"lat": 18.5104057,
+"lon": 73.807709,
+"address": "Yajurveda, Plot No. 39, Hinjawadi",
+"operator": "chargeMOD",
+"listing": "pune",
+"source_url": "https://chargemod.com/chargers/pune"
+},
+{
+"name": "Atharvaveda 2W Parking",
+"lat": 18.5104057,
+"lon": 73.807709,
+"address": "Atharvaveda, Plot No. 39, Hinjawadi",
+"operator": "chargeMOD",
+"listing": "pune",
+"source_url": "https://chargemod.com/chargers/pune"
+},
+{
+"name": "Samaveda 4W Parking",
+"lat": 18.5104057,
+"lon": 73.807709,
+"address": "Samaveda, Plot No. 39, Hinjawadi",
+"operator": "chargeMOD",
+"listing": "pune",
+"source_url": "https://chargemod.com/chargers/pune"
+},
+{
+"name": "Rgveda 2W Parking",
+"lat": 18.5104057,
+"lon": 73.807709,
+"address": "Rgveda, Plot No. 39, Hinjawadi",
+"operator": "chargeMOD",
+"listing": "pune",
+"source_url": "https://chargemod.com/chargers/pune"
+},
+{
+"name": "Pingala 2W Parking",
+"lat": 18.5104057,
+"lon": 73.807709,
+"address": "9a, Aryabhata-Pingala, Kashibai Khilare Path",
+"operator": "chargeMOD",
+"listing": "pune",
+"source_url": "https://chargemod.com/chargers/pune"
+},
+{
+"name": "Purple Bus EVCS | Private",
+"lat": 18.470939,
+"lon": 73.828214,
+"address": "PRIVATE USE ONLY, Restricted Entry",
+"operator": "chargeMOD",
+"listing": "pune",
+"source_url": "https://chargemod.com/chargers/pune"
+},
+{
+"name": "Shivasagar 1",
+"lat": 18.47592,
+"lon": 73.818735,
+"address": "SHIVASAGAR CITY, Anand Nagar, Pune, Maharashtra",
+"operator": "chargeMOD",
+"listing": "pune",
+"source_url": "https://chargemod.com/chargers/pune"
+},
+{
+"name": "Meriton Towers",
+"lat": 18.45612,
+"lon": 73.840257,
+"address": "Meriton Towers, Ambegaon BK Road,",
+"operator": "chargeMOD",
+"listing": "pune",
+"source_url": "https://chargemod.com/chargers/pune"
+},
+{
+"name": "ARGIO - Yash Florencia - test",
+"lat": 18.459113,
+"lon": 73.898602,
+"address": "Tyni Audyogic Wasahat, Kondhwa",
+"operator": "chargeMOD",
+"listing": "pune",
+"source_url": "https://chargemod.com/chargers/pune"
+},
+{
+"name": "ARGIO-Zircon Society",
+"lat": 18.564025805638167,
+"lon": 73.92179975447773,
+"address": "Zircon road, Viman Nagar",
+"operator": "chargeMOD",
+"listing": "pune",
+"source_url": "https://chargemod.com/chargers/pune"
+},
+{
+"name": "Nicmar University EVCS | Baner | Private",
+"lat": 18.573753,
+"lon": 73.766562,
+"address": "PRIVATE CHARGER | RESTRICTED ENTRY, Ram Nagar, Baner",
+"operator": "chargeMOD",
+"listing": "pune",
+"source_url": "https://chargemod.com/chargers/pune"
+},
+{
+"name": "Antop Test",
+"lat": 19.0205,
+"lon": 72.8674,
+"address": "Antop hill warehousing complex, Wadala East",
+"operator": "chargeMOD",
+"listing": "mumbai",
+"source_url": "https://chargemod.com/chargers/mumbai"
+},
+{
+"name": "Earth Castle Residency CHS Ltd",
+"lat": 18.956436,
+"lon": 72.822257,
+"address": "143/145, V P Road, Opposite Sicka Nagar",
+"operator": "chargeMOD",
+"listing": "mumbai",
+"source_url": "https://chargemod.com/chargers/mumbai"
+},
+{
+"name": "MIDC Turbhe Truck Terminal EVCS | Navi Mumbai",
+"lat": 19.068657,
+"lon": 73.027581,
+"address": "S Central Rd, MIDC Industrial Area, Sanpada, Navi Mumbai",
+"operator": "chargeMOD",
+"listing": "mumbai",
+"source_url": "https://chargemod.com/chargers/mumbai"
+},
+{
+"name": "Bayer House | Thane | PRIVATE",
+"lat": 19.260684,
+"lon": 72.984457,
+"address": "PRIVATE USE ONLY, Restricted Entry",
+"operator": "chargeMOD",
+"listing": "mumbai",
+"source_url": "https://chargemod.com/chargers/mumbai"
+},
+{
+"name": "Car Care Ambernath",
+"lat": 19.209,
+"lon": 73.186,
+"address": "Survey.ni.34, Katai Pipeline Rd",
+"operator": "chargeMOD",
+"listing": "mumbai",
+"source_url": "https://chargemod.com/chargers/mumbai"
+},
+{
+"name": "KSEB1 CB 540 Parottukonam",
+"lat": 8.529707,
+"lon": 76.936872,
+"address": "Kesavadasapuram - Ulloor Rd, Kesavadasapuram",
+"operator": "chargeMOD",
+"listing": "thiruvananthapuram",
+"source_url": "https://chargemod.com/chargers/thiruvananthapuram"
+},
+{
+"name": "KSEB1 CB 536 Pottakkuzhi",
+"lat": 8.515673,
+"lon": 76.937804,
+"address": "Vydyuthi Bhavanam, Pattom Pottakuzhy Rd, Vrindavan Gardens, Pottakkuzhi",
+"operator": "chargeMOD",
+"listing": "thiruvananthapuram",
+"source_url": "https://chargemod.com/chargers/thiruvananthapuram"
+},
+{
+"name": "KSEB01 EVCS Pattom",
+"lat": 8.515308,
+"lon": 76.939241,
+"address": "Electrical Section KSEB, Main Central Rd, Vrindavan Gardens, Pattom",
+"operator": "chargeMOD",
+"listing": "thiruvananthapuram",
+"source_url": "https://chargemod.com/chargers/thiruvananthapuram"
+},
+{
+"name": "KSEB1 CB 570 Chalakkuzhi",
+"lat": 8.522589,
+"lon": 76.926898,
+"address": "Near KSEB Section Office, Medical College, Medical College Campus",
+"operator": "chargeMOD",
+"listing": "thiruvananthapuram",
+"source_url": "https://chargemod.com/chargers/thiruvananthapuram"
+},
+{
+"name": "KSEB1 CB 525 Murinjapalam",
+"lat": 8.5187232,
+"lon": 76.9283624,
+"address": "OPP. ganna juice dukan , Medical College Kumarapuram Rd, Medical College Campus, Murinjapalam",
+"operator": "chargeMOD",
+"listing": "thiruvananthapuram",
+"source_url": "https://chargemod.com/chargers/thiruvananthapuram"
+},
+{
+"name": "KSEB01 EVCS Paruthipara",
+"lat": 8.53505109,
+"lon": 76.9422314,
+"address": "KSEB Substation, Paruthipara",
+"operator": "chargeMOD",
+"listing": "thiruvananthapuram",
+"source_url": "https://chargemod.com/chargers/thiruvananthapuram"
+},
+{
+"name": "KSEB1 CB 582 Pulayanarkotta",
+"lat": 8.525315,
+"lon": 76.919325,
+"address": "Near Aakkulam Tourist Village , GWF7+23Q, Ulloor - Akkulam Rd, Karimanal, Kulathoor, Kulathoor",
+"operator": "chargeMOD",
+"listing": "thiruvananthapuram",
+"source_url": "https://chargemod.com/chargers/thiruvananthapuram"
+},
+{
+"name": "KSEB1 CB 577 Palayam",
+"lat": 8.508685,
+"lon": 76.9457717,
+"address": "Oppo. Institute of Management in Government (IMG), Pattoor PMG Rd, University of Kerala Senate House Campus, Palayam",
+"operator": "chargeMOD",
+"listing": "thiruvananthapuram",
+"source_url": "https://chargemod.com/chargers/thiruvananthapuram"
+},
+{
+"name": "KSEB1 CB 528 PMG Junction",
+"lat": 8.510132,
+"lon": 76.948108,
+"address": "Infront of BSNL Customer service centre, PMG Jn",
+"operator": "chargeMOD",
+"listing": "thiruvananthapuram",
+"source_url": "https://chargemod.com/chargers/thiruvananthapuram"
+},
+{
+"name": "KSEB1 CB 563 Palayam",
+"lat": 8.50983,
+"lon": 76.949144,
+"address": "Oppo. Kerala Legislative Assembly Entrance, University of Kerala Senate House Campus, Palayam",
+"operator": "chargeMOD",
+"listing": "thiruvananthapuram",
+"source_url": "https://chargemod.com/chargers/thiruvananthapuram"
+},
+{
+"name": "KSEB1 CB 515 Pongumoodu",
+"lat": 8.5396134,
+"lon": 76.9235688,
+"address": "Prasanth Nagar Rd, Bapuji Nagar, Pongumoodu, Pongumoodu",
+"operator": "chargeMOD",
+"listing": "thiruvananthapuram",
+"source_url": "https://chargemod.com/chargers/thiruvananthapuram"
+},
+{
+"name": "KSEB1 CB 477 Kowdiar",
+"lat": 8.5230556,
+"lon": 76.9572053,
+"address": "Pattom Kowdiar Rd, Pandits Colony Extension, Kowdiar",
+"operator": "chargeMOD",
+"listing": "thiruvananthapuram",
+"source_url": "https://chargemod.com/chargers/thiruvananthapuram"
+},
+{
+"name": "KERALAEV MBCET EEE 2",
+"lat": 8.546928,
+"lon": 76.93837,
+"address": "Mar Baselios College of Engineering and Technology, Nalanchira",
+"operator": "chargeMOD",
+"listing": "thiruvananthapuram",
+"source_url": "https://chargemod.com/chargers/thiruvananthapuram"
+},
+{
+"name": "KSEB1 CB 533 Kowdiar",
+"lat": 8.5221367,
+"lon": 76.9598712,
+"address": "Pattom Kowdiar Rd, Pandits Colony Extension, Kowdiar",
+"operator": "chargeMOD",
+"listing": "thiruvananthapuram",
+"source_url": "https://chargemod.com/chargers/thiruvananthapuram"
+},
+{
+"name": "KSEB1 CB 572 Nanthancodu",
+"lat": 8.5162914,
+"lon": 76.9586629,
+"address": "Heera High Life, Keston Rd, Kanaka Nagar, Nanthancodu",
+"operator": "chargeMOD",
+"listing": "thiruvananthapuram",
+"source_url": "https://chargemod.com/chargers/thiruvananthapuram"
+},
+{
+"name": "KSEB1 CB 531 Palayam",
+"lat": 8.5035181,
+"lon": 76.9481503,
+"address": "Near Kairali Channel HQ, Aasan Square, University of Kerala Senate House Campus, Palayam",
+"operator": "chargeMOD",
+"listing": "thiruvananthapuram",
+"source_url": "https://chargemod.com/chargers/thiruvananthapuram"
+},
+{
+"name": "KSEB1 CB 466 Palayam",
+"lat": 8.5038145,
+"lon": 76.9506967,
+"address": "Near Martyrs' Column, Palayam Upas, Palayam",
+"operator": "chargeMOD",
+"listing": "thiruvananthapuram",
+"source_url": "https://chargemod.com/chargers/thiruvananthapuram"
+},
+{
+"name": "KERALAEV MBCET EEE 1",
+"lat": 8.548823,
+"lon": 76.938469,
+"address": "Mar Baselios College of Engineering and Technology, Nalanchira",
+"operator": "chargeMOD",
+"listing": "thiruvananthapuram",
+"source_url": "https://chargemod.com/chargers/thiruvananthapuram"
+},
+{
+"name": "KSEB1 CB 583 Nalanchira",
+"lat": 8.548069,
+"lon": 76.943888,
+"address": "Step junction near mother mart, Nalanchira",
+"operator": "chargeMOD",
+"listing": "thiruvananthapuram",
+"source_url": "https://chargemod.com/chargers/thiruvananthapuram"
+},
+{
+"name": "KSEB1 CB 545 Palayam",
+"lat": 8.5022818,
+"lon": 76.9494369,
+"address": "University of Kerala Senate House Campus, Palayam",
+"operator": "chargeMOD",
+"listing": "thiruvananthapuram",
+"source_url": "https://chargemod.com/chargers/thiruvananthapuram"
+},
+{
+"name": "KSEB1 CB 485 Palayam",
+"lat": 8.5082961,
+"lon": 76.9565524,
+"address": "Bakery Jct Rd, University of Kerala Senate House Campus, Palayam",
+"operator": "chargeMOD",
+"listing": "thiruvananthapuram",
+"source_url": "https://chargemod.com/chargers/thiruvananthapuram"
+},
+{
+"name": "JKV Power Hub EVCS",
+"lat": 8.503745,
+"lon": 76.9539697,
+"address": "Bakery Junction, Nandavanam, Palayam",
+"operator": "chargeMOD",
+"listing": "thiruvananthapuram",
+"source_url": "https://chargemod.com/chargers/thiruvananthapuram"
+},
+{
+"name": "KSEB1 CB 475 Anayara",
+"lat": 8.505742,
+"lon": 76.916125,
+"address": "Near district employment exchange, Arasummoodu, Anayara",
+"operator": "chargeMOD",
+"listing": "thiruvananthapuram",
+"source_url": "https://chargemod.com/chargers/thiruvananthapuram"
+},
+{
+"name": "KSEB1 CB 456 Aakkulam",
+"lat": 8.5133324,
+"lon": 76.9108361,
+"address": "Near S M REGENCY , Poonthi Rd, Aakkulam, Aakkulam",
+"operator": "chargeMOD",
+"listing": "thiruvananthapuram",
+"source_url": "https://chargemod.com/chargers/thiruvananthapuram"
+},
+{
+"name": "Keltron House Vellayambalam",
+"lat": 8.511904,
+"lon": 76.961845,
+"address": "Keltron House, CV Raman Pillai Rd, Vellayambalam",
+"operator": "chargeMOD",
+"listing": "thiruvananthapuram",
+"source_url": "https://chargemod.com/chargers/thiruvananthapuram"
+},
+{
+"name": "Evlocity at Hotel Abode EVCS",
+"lat": 17.4047,
+"lon": 78.4647,
+"address": "Venkateshwara Hotel, 6-1-74, Ambedkar Colony, Lakdikapul, Hyderabad, Telangana 500004, Venkateshwara Hotel, 6-1-74, Ambedkar Colony, Lakdikapul, Hyderabad, Telangana 500004",
+"operator": "chargeMOD",
+"listing": "hyderabad",
+"source_url": "https://chargemod.com/chargers/hyderabad"
+},
+{
+"name": "CPWD OFFICE Private | Kawadiguda",
+"lat": 17.426128,
+"lon": 78.494509,
+"address": "PRIVATE USE ONLY, ENTRY RESTRICTED",
+"operator": "chargeMOD",
+"listing": "hyderabad",
+"source_url": "https://chargemod.com/chargers/hyderabad"
+},
+{
+"name": "test location3",
+"lat": 17.4037156,
+"lon": 78.446915,
+"address": "Sreekaryam, Venchavode",
+"operator": "chargeMOD",
+"listing": "hyderabad",
+"source_url": "https://chargemod.com/chargers/hyderabad"
+},
+{
+"name": "Om Sai | BPN EVCS | Hyderabad",
+"lat": 17.362141,
+"lon": 78.433873,
+"address": "Opp mallaiah Tower, bambagh, B side Bank of Baroda",
+"operator": "chargeMOD",
+"listing": "hyderabad",
+"source_url": "https://chargemod.com/chargers/hyderabad"
+},
+{
+"name": "OSR EVCS | Attapur",
+"lat": 17.362937,
+"lon": 78.432893,
+"address": "SVR Prestige, Attapur,Tejaswi Nagar",
+"operator": "chargeMOD",
+"listing": "hyderabad",
+"source_url": "https://chargemod.com/chargers/hyderabad"
+},
+{
+"name": "Vasavi metropolis | Hyderabad",
+"lat": 17.384514,
+"lon": 78.55,
+"address": "Laxmi Narayan Nagar Colony, Uppal, Bhagayath PhasevII, Hyderabad, Telangana",
+"operator": "chargeMOD",
+"listing": "hyderabad",
+"source_url": "https://chargemod.com/chargers/hyderabad"
+},
+{
+"name": "OEMACS EVCS | Kharmanghat",
+"lat": 17.344143,
+"lon": 78.535238,
+"address": "Opp. Shubham Palace,Saroor Nagar Rd, Kharmanghat, Hyderabad, Telangana",
+"operator": "chargeMOD",
+"listing": "hyderabad",
+"source_url": "https://chargemod.com/chargers/hyderabad"
+},
+{
+"name": "PINNACLE EV HUB",
+"lat": 17.4349,
+"lon": 78.4445,
+"address": "8-3-322, Ameerpet Rd, 500073, 8-3-322, Ameerpet Rd, 500073",
+"operator": "chargeMOD",
+"listing": "hyderabad",
+"source_url": "https://chargemod.com/chargers/hyderabad"
+},
+{
+"name": "BPN ARK EVCS | Hyderguda",
+"lat": 17.361333,
+"lon": 78.420517,
+"address": "Street 1A, Venkateswara Enclave, Chaitanya Vilas Colony, Upperpally",
+"operator": "chargeMOD",
+"listing": "hyderabad",
+"source_url": "https://chargemod.com/chargers/hyderabad"
+},
+{
+"name": "Adtiya Hill Top EV Hub",
+"lat": 17.411174,
+"lon": 78.399958,
+"address": "Aditya Sun Crest Apartment Block-F, Senore Colony,, Veterinary Colony, Ambedkar Nagar, Film Nagar,",
+"operator": "chargeMOD",
+"listing": "hyderabad",
+"source_url": "https://chargemod.com/chargers/hyderabad"
+},
+{
+"name": "SVS Pruthvi Heights EV HUB",
+"lat": 17.4019,
+"lon": 78.583,
+"address": "SVS Pruthvi Heights,Hyderabad,Telangana,500037, SVS Pruthvi Heights,Hyderabad,Telangana,500037",
+"operator": "chargeMOD",
+"listing": "hyderabad",
+"source_url": "https://chargemod.com/chargers/hyderabad"
+},
+{
+"name": "Axonify Test 001",
+"lat": 17.47282,
+"lon": 78.44472,
+"address": "BALANAGAR, B-23",
+"operator": "chargeMOD",
+"listing": "hyderabad",
+"source_url": "https://chargemod.com/chargers/hyderabad"
+},
+{
+"name": "La Green Apartment EVCS | Manikonda | Private",
+"lat": 17.399536,
+"lon": 78.386379,
+"address": "Shaikper Main road, Manikonda,Hyderabad",
+"operator": "chargeMOD",
+"listing": "hyderabad",
+"source_url": "https://chargemod.com/chargers/hyderabad"
+},
+{
+"name": "Sri Ram Gardens",
+"lat": 17.500846,
+"lon": 78.476623,
+"address": "Medchal Rd, nearby Suchitra Road, Green Park, Jeedimetla., Hyderabad, Telangana",
+"operator": "chargeMOD",
+"listing": "hyderabad",
+"source_url": "https://chargemod.com/chargers/hyderabad"
+},
+{
+"name": "Lansum El-Dorado EVCS",
+"lat": 17.3837,
+"lon": 78.3605,
+"address": "Narsingi, Hyderabad, Telangana, Narsingi, Hyderabad, Telangana",
+"operator": "chargeMOD",
+"listing": "hyderabad",
+"source_url": "https://chargemod.com/chargers/hyderabad"
+},
+{
+"name": "GREENKO EVCS | Madhapur",
+"lat": 17.447454,
+"lon": 78.375949,
+"address": "GREENKO HUB, DELOITTE DRIVE, Hitech, Madhapur, Hyderabad",
+"operator": "chargeMOD",
+"listing": "hyderabad",
+"source_url": "https://chargemod.com/chargers/hyderabad"
+},
+{
+"name": "Aparna Zenon EVCS | Puppalaguda",
+"lat": 17.4073,
+"lon": 78.3594,
+"address": "Khajaguda, Makthakousarali",
+"operator": "chargeMOD",
+"listing": "hyderabad",
+"source_url": "https://chargemod.com/chargers/hyderabad"
+},
+{
+"name": "Lansum Etania EV boost | Private",
+"lat": 17.402004,
+"lon": 78.351471,
+"address": "Puppalaguda, Rajendra Nagar Mandal",
+"operator": "chargeMOD",
+"listing": "hyderabad",
+"source_url": "https://chargemod.com/chargers/hyderabad"
+},
+{
+"name": "Ramky Towers EVCS",
+"lat": 17.44,
+"lon": 78.36,
+"address": "Mindspace Rd, P Janardhan Reddy Nagar, Gachibowli, Hyderabad,, Mindspace Rd, P Janardhan Reddy Nagar, Gachibowli, Hyderabad",
+"operator": "chargeMOD",
+"listing": "hyderabad",
+"source_url": "https://chargemod.com/chargers/hyderabad"
+},
+{
+"name": "VASAVI SRI SRI SIGNATURE | HYDERABAD",
+"lat": 17.4827,
+"lon": 78.389824,
+"address": "5TH PHASE, OPPT NEXUS MALL, KPHB COLONY",
+"operator": "chargeMOD",
+"listing": "hyderabad",
+"source_url": "https://chargemod.com/chargers/hyderabad"
+},
+{
+"name": "Green EV Hub",
+"lat": 17.4948,
+"lon": 78.3996,
+"address": "Sathavahana Nagar, Kukatpally, Sathavahana Nagar, Kukatpally",
+"operator": "chargeMOD",
+"listing": "hyderabad",
+"source_url": "https://chargemod.com/chargers/hyderabad"
+},
+{
+"name": "Aparna Serenity EV HUB",
+"lat": 17.5243,
+"lon": 78.4897,
+"address": "Block 1, Aparna Serenity Kompally, Brudavan Colony, Bolarum",
+"operator": "chargeMOD",
+"listing": "hyderabad",
+"source_url": "https://chargemod.com/chargers/hyderabad"
+},
+{
+"name": "Rajapushpa Retreat EVCS",
+"lat": 17.3877,
+"lon": 78.3369,
+"address": "EMERALD TOWER-2, THE RETREAT, Kokapet",
+"operator": "chargeMOD",
+"listing": "hyderabad",
+"source_url": "https://chargemod.com/chargers/hyderabad"
+},
+{
+"name": "SMR Fountain Head EVCS | Hyderabad",
+"lat": 17.489348,
+"lon": 78.371148,
+"address": "SMR VINAY FOUNTAINHEAD, Hafeezpet, Hyderabad",
+"operator": "chargeMOD",
+"listing": "hyderabad",
+"source_url": "https://chargemod.com/chargers/hyderabad"
+},
+{
+"name": "Sree Vari Pride KSN Infra EVCS | Kompally",
+"lat": 17.544458,
+"lon": 78.486452,
+"address": "Devender Colony, Kompally",
+"operator": "chargeMOD",
+"listing": "hyderabad",
+"source_url": "https://chargemod.com/chargers/hyderabad"
+},
+{
+"name": "Sugan Niwas Palace",
+"lat": 26.925066828320112,
+"lon": 75.80086367979673,
+"address": "Bus Stand, Vijay Path Behind Sindhi Camp, Bani Park, Bani Park",
+"operator": "chargeMOD",
+"listing": "jaipur",
+"source_url": "https://chargemod.com/chargers/jaipur"
+},
+{
+"name": "Hotel Narain Niwas Palace",
+"lat": 26.8982962,
+"lon": 75.813987,
+"address": "Hotel Narain Niwas Palace Kanota Bagh, Narayan Singh Rd, C Scheme",
+"operator": "chargeMOD",
+"listing": "jaipur",
+"source_url": "https://chargemod.com/chargers/jaipur"
+},
+{
+"name": "Mall Of Jaipur",
+"lat": 26.9061643,
+"lon": 75.7344336,
+"address": "Gandhi Path W, B Block, Vaishali Nagar, Vaishali Nagar",
+"operator": "chargeMOD",
+"listing": "jaipur",
+"source_url": "https://chargemod.com/chargers/jaipur"
+},
+{
+"name": "Hotel Raj Kothi",
+"lat": 26.848961044274667,
+"lon": 75.80429952878445,
+"address": "B-12, Lal Bahadur Nagar, Sector 9, Malviya Nagar, Malviya Nagar",
+"operator": "chargeMOD",
+"listing": "jaipur",
+"source_url": "https://chargemod.com/chargers/jaipur"
+},
+{
+"name": "Clarion Bella Casa",
+"lat": 26.8405638591241,
+"lon": 75.79450823480079,
+"address": "1, Ashram Marg, Tonk Road, Choti Chopad, Chandrakala Colony, Durgapura",
+"operator": "chargeMOD",
+"listing": "jaipur",
+"source_url": "https://chargemod.com/chargers/jaipur"
+},
+{
+"name": "RAMADA BY WYNDHAM",
+"lat": 26.8251948556809,
+"lon": 75.6976156866237,
+"address": "Jaisingh Pura,Peepla Bharatsingh, Ajmer Rd, Jaisinghpura",
+"operator": "chargeMOD",
+"listing": "jaipur",
+"source_url": "https://chargemod.com/chargers/jaipur"
+},
+{
+"name": "Test Location Starbucks Coffee",
+"lat": 27.206758,
+"lon": 75.813341,
+"address": "Ground Floor, Near Naturals Icecream, A-5, C scheme chomu circle, Sardar Patel Marg,, Sardar Patel Marg",
+"operator": "chargeMOD",
+"listing": "jaipur",
+"source_url": "https://chargemod.com/chargers/jaipur"
+},
+{
+"name": "NWB Bike Charger - 1 | Chennai",
+"lat": 13.131949,
+"lon": 80.241844,
+"address": "Moolakkadai, 443/1, Madavaram Red Hills Rd, Sastri Nagar, Kodungaiyur",
+"operator": "chargeMOD",
+"listing": "chennai",
+"source_url": "https://chargemod.com/chargers/chennai"
+},
+{
+"name": "PIRAMAL PHARMA | Private | Ennore",
+"lat": 13.192557,
+"lon": 80.31395,
+"address": "PRIVATE USE ONLY, ENTRY RESTRICTED",
+"operator": "chargeMOD",
+"listing": "chennai",
+"source_url": "https://chargemod.com/chargers/chennai"
+},
+{
+"name": "S and P Courtyard | Private",
+"lat": 13.078229,
+"lon": 80.1465,
+"address": "PRIVATE CHARGER, ENTRY RESTRICTED",
+"operator": "chargeMOD",
+"listing": "chennai",
+"source_url": "https://chargemod.com/chargers/chennai"
+},
+{
+"name": "OMCS Station | BSR | Chennai",
+"lat": 12.949796,
+"lon": 80.240582,
+"address": "BSR Mall, OMR Service Rd, Seevaram, Thoraipakkam",
+"operator": "chargeMOD",
+"listing": "chennai",
+"source_url": "https://chargemod.com/chargers/chennai"
+},
+{
+"name": "OMCS CHARGING STATION",
+"lat": 12.9496,
+"lon": 80.2403,
+"address": "PRASAN GLOBAL INFINITY VENTURES PVT. LTD, Rajiv Gandhi Road",
+"operator": "chargeMOD",
+"listing": "chennai",
+"source_url": "https://chargemod.com/chargers/chennai"
+},
+{
+"name": "OMCS Hub | Chennai",
+"lat": 12.949035,
+"lon": 80.239994,
+"address": "Pallavaram-Thuraipakkam Rd, Seevaram, Thoraipakkam",
+"operator": "chargeMOD",
+"listing": "chennai",
+"source_url": "https://chargemod.com/chargers/chennai"
+},
+{
+"name": "Montra 11 Vijayawada",
+"lat": 16.5146,
+"lon": 80.6702,
+"address": "49-1-135E, Chaitanya Nilayam, Eluru road",
+"operator": "chargeMOD",
+"listing": "vijayawada",
+"source_url": "https://chargemod.com/chargers/vijayawada"
+},
+{
+"name": "Apace Hill View County EVCS | Vijayawada",
+"lat": 16.539423,
+"lon": 80.663057,
+"address": "Karamel nagar, Gunadala, Vijayawada",
+"operator": "chargeMOD",
+"listing": "vijayawada",
+"source_url": "https://chargemod.com/chargers/vijayawada"
+},
+{
+"name": "VOLTEX ENTERPRISES | Vijayawada",
+"lat": 16.522011,
+"lon": 80.776415,
+"address": "Kesarapalli, Andhra Pradesh 521102",
+"operator": "chargeMOD",
+"listing": "vijayawada",
+"source_url": "https://chargemod.com/chargers/vijayawada"
+},
+{
+"name": "ZIPPY-06 | SPECTRON | Mangalagiri",
+"lat": 16.3886,
+"lon": 80.5373,
+"address": "SPECTRON EV CHARGING HUB, 18-13-212,PLOT NO-02, BESIDE NH 16 BYPASS KAZA",
+"operator": "chargeMOD",
+"listing": "vijayawada",
+"source_url": "https://chargemod.com/chargers/vijayawada"
+},
+{
+"name": "ZIPPY-01 | GEECELL | Guntur",
+"lat": 16.3196,
+"lon": 80.414,
+"address": "1-1-6, G.V.R.COMPLEX, MAIN ROAD, GUJJANAGUNDLA, Guntur",
+"operator": "chargeMOD",
+"listing": "vijayawada",
+"source_url": "https://chargemod.com/chargers/vijayawada"
+},
+{
+"name": "KSEB7 CB 1363 Pyari Junction",
+"lat": 9.931631,
+"lon": 76.265767,
+"address": "Pallichal Rd, Valummel",
+"operator": "chargeMOD",
+"listing": "kochi",
+"source_url": "https://chargemod.com/chargers/kochi"
+},
+{
+"name": "KSEB7 CB 1371 Palluruthy",
+"lat": 9.927751,
+"lon": 76.270981,
+"address": "Aroor - Thoppumpady Rd, Palluruthy",
+"operator": "chargeMOD",
+"listing": "kochi",
+"source_url": "https://chargemod.com/chargers/kochi"
+},
+{
+"name": "KSEB7 CB 1430 Thoppumpady",
+"lat": 9.935089,
+"lon": 76.263313,
+"address": "LG Tower, Aroor-hoppumpady Rd, Thoppumpady",
+"operator": "chargeMOD",
+"listing": "kochi",
+"source_url": "https://chargemod.com/chargers/kochi"
+},
+{
+"name": "KSEB7 CB 1429 Palluruthy",
+"lat": 9.922083,
+"lon": 76.276306,
+"address": "P Gangadharan Rd, Palluruthy",
+"operator": "chargeMOD",
+"listing": "kochi",
+"source_url": "https://chargemod.com/chargers/kochi"
+},
+{
+"name": "Megh Nath Building No. 4",
+"lat": 9.94339,
+"lon": 76.279991,
+"address": "Kochi, Willingdon Island",
+"operator": "chargeMOD",
+"listing": "kochi",
+"source_url": "https://chargemod.com/chargers/kochi"
+},
+{
+"name": "Megh Nath Building No. 5",
+"lat": 9.943532,
+"lon": 76.280084,
+"address": "Kochi, Willingdon Island",
+"operator": "chargeMOD",
+"listing": "kochi",
+"source_url": "https://chargemod.com/chargers/kochi"
+},
+{
+"name": "Megh Nath Building No. 1",
+"lat": 9.942761,
+"lon": 76.281027,
+"address": "Willingdon Island, Kochi",
+"operator": "chargeMOD",
+"listing": "kochi",
+"source_url": "https://chargemod.com/chargers/kochi"
+},
+{
+"name": "Megh Nath Building No. 2",
+"lat": 9.943182,
+"lon": 76.280808,
+"address": "Willingdon Island, Kochi",
+"operator": "chargeMOD",
+"listing": "kochi",
+"source_url": "https://chargemod.com/chargers/kochi"
+},
+{
+"name": "Megh Nath Building No. 3",
+"lat": 9.943303,
+"lon": 76.280717,
+"address": "Willingdon Island, Kochi",
+"operator": "chargeMOD",
+"listing": "kochi",
+"source_url": "https://chargemod.com/chargers/kochi"
+},
+{
+"name": "Ashok Building No.5",
+"lat": 9.9339062,
+"lon": 76.2854629,
+"address": "Katari Bagh, Willingdon Island",
+"operator": "chargeMOD",
+"listing": "kochi",
+"source_url": "https://chargemod.com/chargers/kochi"
+},
+{
+"name": "KSEB7 CB 1361 Chullickal",
+"lat": 9.945619,
+"lon": 76.255568,
+"address": "Chullickal Rd, Chullickal",
+"operator": "chargeMOD",
+"listing": "kochi",
+"source_url": "https://chargemod.com/chargers/kochi"
+},
+{
+"name": "Ashok Building No.1",
+"lat": 9.934056,
+"lon": 76.28744,
+"address": "Katari Bagh, Willingdon Island",
+"operator": "chargeMOD",
+"listing": "kochi",
+"source_url": "https://chargemod.com/chargers/kochi"
+},
+{
+"name": "Ashok Building No.2",
+"lat": 9.934157,
+"lon": 76.287826,
+"address": "Katari Bagh, Willingdon Island",
+"operator": "chargeMOD",
+"listing": "kochi",
+"source_url": "https://chargemod.com/chargers/kochi"
+},
+{
+"name": "Ashok Building No.3",
+"lat": 9.933878,
+"lon": 76.28802,
+"address": "Katari Bagh, Willingdon Island",
+"operator": "chargeMOD",
+"listing": "kochi",
+"source_url": "https://chargemod.com/chargers/kochi"
+},
+{
+"name": "Ashok Building No.4",
+"lat": 9.934179,
+"lon": 76.288124,
+"address": "Katari Bagh, Willingdon Island",
+"operator": "chargeMOD",
+"listing": "kochi",
+"source_url": "https://chargemod.com/chargers/kochi"
+},
+{
+"name": "Ashok Building No.7",
+"lat": 9.934254,
+"lon": 76.288439,
+"address": "Katari Bagh, Willingdon Island",
+"operator": "chargeMOD",
+"listing": "kochi",
+"source_url": "https://chargemod.com/chargers/kochi"
+},
+{
+"name": "Ashok Building No.6",
+"lat": 9.934372,
+"lon": 76.288783,
+"address": "Katari Bagh, , Willingdon Island",
+"operator": "chargeMOD",
+"listing": "kochi",
+"source_url": "https://chargemod.com/chargers/kochi"
+},
+{
+"name": "Ashok Building No.8",
+"lat": 9.934407,
+"lon": 76.288907,
+"address": "Katari Bagh, Willingdon Island",
+"operator": "chargeMOD",
+"listing": "kochi",
+"source_url": "https://chargemod.com/chargers/kochi"
+},
+{
+"name": "KSEB7 CB 1338 Statue Junction",
+"lat": 9.945839,
+"lon": 76.250357,
+"address": "Statue Rd, Chullickal",
+"operator": "chargeMOD",
+"listing": "kochi",
+"source_url": "https://chargemod.com/chargers/kochi"
+},
+{
+"name": "KSEB7 CB 1358 Koovapadam",
+"lat": 9.952,
+"lon": 76.253361,
+"address": "Jawahar Rd, Koovapadam",
+"operator": "chargeMOD",
+"listing": "kochi",
+"source_url": "https://chargemod.com/chargers/kochi"
+},
+{
+"name": "Bharath Building",
+"lat": 9.958429,
+"lon": 76.275495,
+"address": "Willingdon ISland, Kochi",
+"operator": "chargeMOD",
+"listing": "kochi",
+"source_url": "https://chargemod.com/chargers/kochi"
+},
+{
+"name": "Ekalavya Building",
+"lat": 9.958429,
+"lon": 76.275495,
+"address": "Willingdon ISland, Kochi",
+"operator": "chargeMOD",
+"listing": "kochi",
+"source_url": "https://chargemod.com/chargers/kochi"
+},
+{
+"name": "KSEB7 CB 1355 Town Hall Junction",
+"lat": 9.953042,
+"lon": 76.24887,
+"address": "Ganesha Pai Rd, Pandikudy, Thamaraparambu,, Fort Kochi, Kochi",
+"operator": "chargeMOD",
+"listing": "kochi",
+"source_url": "https://chargemod.com/chargers/kochi"
+},
+{
+"name": "KSEB7 CB 1352 Mattancherry",
+"lat": 9.959111,
+"lon": 76.259833,
+"address": "Jew Town Rd, Mattancherry",
+"operator": "chargeMOD",
+"listing": "kochi",
+"source_url": "https://chargemod.com/chargers/kochi"
+},
+{
+"name": "Karan Building",
+"lat": 9.959,
+"lon": 76.276,
+"address": "Willngdon island, Kochi",
+"operator": "chargeMOD",
+"listing": "kochi",
+"source_url": "https://chargemod.com/chargers/kochi"
+},
+{
+"name": "Aurelien EVCS | Ahmedabad",
+"lat": 22.991713,
+"lon": 72.487495,
+"address": "Aurelien Commercial Building, Near L J University",
+"operator": "chargeMOD",
+"listing": "ahmedabad",
+"source_url": "https://chargemod.com/chargers/ahmedabad"
+},
+{
+"name": "Lubi Corporate Campus | PRIVATE",
+"lat": 23.134255,
+"lon": 72.563374,
+"address": "PRIVATE USE ONLY, Restricted Entry",
+"operator": "chargeMOD",
+"listing": "ahmedabad",
+"source_url": "https://chargemod.com/chargers/ahmedabad"
+},
+{
+"name": "Keshvam Clifton | Private",
+"lat": 23.140599,
+"lon": 72.549076,
+"address": "PRIVATE USE ONLY, ENTRY RESTRICTED",
+"operator": "chargeMOD",
+"listing": "ahmedabad",
+"source_url": "https://chargemod.com/chargers/ahmedabad"
+},
+{
+"name": "Amba Township | Private",
+"lat": 23.18395,
+"lon": 72.572632,
+"address": "SECTOR-6, GHANDHINAGAR",
+"operator": "chargeMOD",
+"listing": "ahmedabad",
+"source_url": "https://chargemod.com/chargers/ahmedabad"
+},
+{
+"name": "The Quorum Mysuru",
+"lat": 12.312142,
+"lon": 76.640694,
+"address": "2257, Vinoba Rd, CFTRI Campus, Shivarampet",
+"operator": "chargeMOD",
+"listing": "mysuru",
+"source_url": "https://chargemod.com/chargers/mysuru"
+},
+{
+"name": "KSEB2 CB 620 Apsara",
+"lat": 8.889655,
+"lon": 76.61763,
+"address": "Apsara-Karuthara Temple Rd, Ammannada",
+"operator": "chargeMOD",
+"listing": "kollam",
+"source_url": "https://chargemod.com/chargers/kollam"
+},
+{
+"name": "40kW | IONGRID | Plug And Go | Kadappakada | Kollam",
+"lat": 8.891167,
+"lon": 76.604732,
+"address": "Central Bank ATM Oppo Dhanya Remya Theatre, Kadappakada",
+"operator": "chargeMOD",
+"listing": "kollam",
+"source_url": "https://chargemod.com/chargers/kollam"
+},
+{
+"name": "KSEB2 CB 375 Mangad",
+"lat": 8.905186,
+"lon": 76.6223812,
+"address": "Aluvila Bypass, Mangad",
+"operator": "chargeMOD",
+"listing": "kollam",
+"source_url": "https://chargemod.com/chargers/kollam"
+},
+{
+"name": "KSEB2 CB 627 Polayathodu",
+"lat": 8.879417,
+"lon": 76.606528,
+"address": "Near Craven School, Kollam - Thiruvananthapuram Rd, Polayathodu",
+"operator": "chargeMOD",
+"listing": "kollam",
+"source_url": "https://chargemod.com/chargers/kollam"
+},
+{
+"name": "KSEB2 CB 600 Ayathil Junction",
+"lat": 8.8912806,
+"lon": 76.630417,
+"address": "Kollam Bypass, Ayathil",
+"operator": "chargeMOD",
+"listing": "kollam",
+"source_url": "https://chargemod.com/chargers/kollam"
+},
+{
+"name": "KSEB2 CB 604 Madannada",
+"lat": 8.8756375,
+"lon": 76.617194,
+"address": "Near MTM Hospital, Madannada, Pallimukku",
+"operator": "chargeMOD",
+"listing": "kollam",
+"source_url": "https://chargemod.com/chargers/kollam"
+},
+{
+"name": "KSEB2 CB 557 Chamkkada",
+"lat": 8.887556,
+"lon": 76.595222,
+"address": "Craven School, Kollam - Thirumangalam Rd., Chamkkada",
+"operator": "chargeMOD",
+"listing": "kollam",
+"source_url": "https://chargemod.com/chargers/kollam"
+},
+{
+"name": "KSEB2 CB 590 Karbala",
+"lat": 8.8826125,
+"lon": 76.5974219,
+"address": "College Junction, Karbala",
+"operator": "chargeMOD",
+"listing": "kollam",
+"source_url": "https://chargemod.com/chargers/kollam"
+},
+{
+"name": "KSEB2 CB 632 Karbala",
+"lat": 8.8838992,
+"lon": 76.5941031,
+"address": "Bus bay, Karbala",
+"operator": "chargeMOD",
+"listing": "kollam",
+"source_url": "https://chargemod.com/chargers/kollam"
+},
+{
+"name": "KOLLAM CORPORATION",
+"lat": 8.884616,
+"lon": 76.591438,
+"address": "Kollam Municipal Building, Karbala",
+"operator": "chargeMOD",
+"listing": "kollam",
+"source_url": "https://chargemod.com/chargers/kollam"
+},
+{
+"name": "KSEB2 CB 367 Chinnakkada",
+"lat": 8.8845875,
+"lon": 76.5913906,
+"address": "Muncipal Building, Beach Rd, Karbala",
+"operator": "chargeMOD",
+"listing": "kollam",
+"source_url": "https://chargemod.com/chargers/kollam"
+},
+{
+"name": "KSEB2 CB 354 Asramam",
+"lat": 8.8964426,
+"lon": 76.5894452,
+"address": "Near Inland Navigation Office, Asramam",
+"operator": "chargeMOD",
+"listing": "kollam",
+"source_url": "https://chargemod.com/chargers/kollam"
+},
+{
+"name": "EVM Volkswagen Kollam",
+"lat": 8.882268,
+"lon": 76.636768,
+"address": "Volkswagen Service Centre Rd, Mylapure, Palathara",
+"operator": "chargeMOD",
+"listing": "kollam",
+"source_url": "https://chargemod.com/chargers/kollam"
+},
+{
+"name": "BISHOP JEROME NAGAR EVCS EVOK",
+"lat": 8.886448,
+"lon": 76.588699,
+"address": "Bishop jerome nagar, Bishop jerome nagar",
+"operator": "chargeMOD",
+"listing": "kollam",
+"source_url": "https://chargemod.com/chargers/kollam"
+},
+{
+"name": "KSEB2 CB 381 Thamarakulam",
+"lat": 8.881462,
+"lon": 76.588904,
+"address": "Thamarakulam Rd, Thamarakulam",
+"operator": "chargeMOD",
+"listing": "kollam",
+"source_url": "https://chargemod.com/chargers/kollam"
+},
+{
+"name": "TKM Kollam EVCS",
+"lat": 8.91507,
+"lon": 76.631952,
+"address": "TKM College of Engineering, ENTRY ONLY FOR TKM COLLEGE STAFF",
+"operator": "chargeMOD",
+"listing": "kollam",
+"source_url": "https://chargemod.com/chargers/kollam"
+},
+{
+"name": "KSEB2 CB 391 Kollam Beach",
+"lat": 8.873139,
+"lon": 76.594083,
+"address": "Beach Rd, Kochupilammood, Pallithottam, Thamarakulam",
+"operator": "chargeMOD",
+"listing": "kollam",
+"source_url": "https://chargemod.com/chargers/kollam"
+},
+{
+"name": "KSEB2 CB 606 Padayattin Kuzhi",
+"lat": 8.8721854,
+"lon": 76.6334765,
+"address": "Panvel - Kochi - Kanyakumari Hwy, Thattamala",
+"operator": "chargeMOD",
+"listing": "kollam",
+"source_url": "https://chargemod.com/chargers/kollam"
+},
+{
+"name": "kseb2 cb 391",
+"lat": 8.891763,
+"lon": 76.585337,
+"address": "jj, jj",
+"operator": "chargeMOD",
+"listing": "kollam",
+"source_url": "https://chargemod.com/chargers/kollam"
+},
+{
+"name": "KSEB2 CB 393 Taluk Kachery",
+"lat": 8.8917807,
+"lon": 76.5853071,
+"address": "Near KSRTC Bus Stand, Link Road, Taluk Kachery,",
+"operator": "chargeMOD",
+"listing": "kollam",
+"source_url": "https://chargemod.com/chargers/kollam"
+},
+{
+"name": "KSEB2 CB 319 Pallithottam",
+"lat": 8.8753875,
+"lon": 76.5913906,
+"address": "Kaumudi Nagar, Pallithottam",
+"operator": "chargeMOD",
+"listing": "kollam",
+"source_url": "https://chargemod.com/chargers/kollam"
+},
+{
+"name": "KSEB2 CB 364 Chinnakada",
+"lat": 8.8855509,
+"lon": 76.584342,
+"address": "Near District Hospital, Hospital Rd, Chinnakada",
+"operator": "chargeMOD",
+"listing": "kollam",
+"source_url": "https://chargemod.com/chargers/kollam"
+},
+{
+"name": "VOX Xpress Wash | Thazhuthala |EVOK",
+"lat": 8.873941,
+"lon": 76.641019,
+"address": "Kollam Bypass, Mylapure, Palathara, Thazhuthala",
+"operator": "chargeMOD",
+"listing": "kollam",
+"source_url": "https://chargemod.com/chargers/kollam"
+},
+{
+"name": "MONTRA EAST VENICE KOLLAM",
+"lat": 8.873127,
+"lon": 76.640989,
+"address": "East Venice E-Mobility, Mylapure, Palathara, Thazhuthala",
+"operator": "chargeMOD",
+"listing": "kollam",
+"source_url": "https://chargemod.com/chargers/kollam"
+},
+{
+"name": "KSEB2 CB 348 Soojikkaran Mukku",
+"lat": 8.883582,
+"lon": 76.58044,
+"address": "Mulakkada Mukku-Vaddy Rd, Jonaka Puram",
+"operator": "chargeMOD",
+"listing": "kollam",
+"source_url": "https://chargemod.com/chargers/kollam"
+}
+]
+}

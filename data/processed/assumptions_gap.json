@@ -1,0 +1,86 @@
+{
+ "assumptions": [
+  {
+   "id": "vahan-ev",
+   "label": "State EV registrations",
+   "value": "ELECTRIC(BOV) + PURE EV, cumulative and by year",
+   "source": "VAHAN4 dashboard rows in data/data.csv",
+   "kind": "measured"
+  },
+  {
+   "id": "ev-alloc",
+   "label": "District EV counts",
+   "value": "State VAHAN total split in two parts. Share m = matched RTO EVs / all RTO EVs in the state (2022-2026) follows each district's matched RTO registrations; the rest (1 - m) follows 0.4 x (2W + car households) + 0.3 x power-parity households + 0.3 x VIIRS nightlights. Districts with no matched RTO get evsSource 'proxy'; state sums equal VAHAN exactly",
+   "source": "India Data Portal VAHAN by RTO (data/raw/vahan_rto/fuel.csv, HR207 dealer total excluded); proxy shares from Census 2011 and VIIRS 2024",
+   "kind": "modelled"
+  },
+  {
+   "id": "rto-crosswalk",
+   "label": "RTO to district match",
+   "value": "1377 RTOs matched to 2021 districts by normalised name inside the state (exact, then containment, then fuzzy >= 0.8); 51% of RTOs and 79% of RTO EVs matched. Written to rto_district_crosswalk.csv",
+   "source": "Name matching only; no official RTO-to-district list was used",
+   "kind": "assumed"
+  },
+  {
+   "id": "rto-jurisdiction",
+   "label": "RTO jurisdiction is not a district boundary",
+   "value": "An RTO can cover part of a district or several districts, and metro RTOs (Delhi, Mumbai, Bengaluru, Chennai) are often named for zones, not districts. Where several RTOs match one district their EVs add; a district with an unmatched sibling RTO is under-counted and the proxy only partly corrects it",
+   "source": "RTO series start in 2022, so shares reflect recent registrations, not the earlier stock",
+   "kind": "assumed"
+  },
+  {
+   "id": "registration-vs-charging",
+   "label": "Registration place is not charging place",
+   "value": "A vehicle is counted where it is registered (often a dealer or fleet owner's city), not where it charges or runs. District EVs therefore show registration, not charging demand",
+   "source": "VAHAN registration data",
+   "kind": "assumed"
+  },
+  {
+   "id": "official-total",
+   "label": "Official public charging stations",
+   "value": "52,718 as of 2026-07-21",
+   "source": "Lok Sabha Q.453 (BHEL portal), July 2026. The jump from 29,151 (Dec 2025) most likely reflects a counting-system change, not construction",
+   "kind": "measured"
+  },
+  {
+   "id": "coverage-factor",
+   "label": "Charger coverage factor per state",
+   "value": "coverageFactor = min(1, stations found / official state count), floored at 0.1. Official state count = the 29 Jul 2026 annexure for the 16 states where press confirms it (41,238), and the Dec 2025 state total scaled by 1.920 for the other 20 so the states sum to 52,718. Found stations: 31,259 (national 0.593). Ratios above 1 are capped at 1 (0 states: found data from BEE Dec 2024 / OSM exceeds the older state count); the BEE snapshot is Dec 2024 and may hold closed stations, which overstates coverage",
+   "source": "Parliament replies and PIB state counts in data/data.csv; BHEL and BEE universes differ and the series do not nest, so this is a rough scaling",
+   "kind": "assumed"
+  },
+  {
+   "id": "urban-norm",
+   "label": "Urban spacing norm",
+   "value": "1 charging station per 3 km x 3 km grid",
+   "source": "MoP Guidelines for Installation and Operation of Public Charging Infrastructure (2022, amended 2023), Location of Public Charging Stations: \"At least one Charging Station shall be available in a grid of 3 Km X 3 Km. Further, one Charging Station shall be set up at every 25 Km on both sides of highways/roads.\"",
+   "kind": "norm"
+  },
+  {
+   "id": "hwy-norm",
+   "label": "Highway spacing norm",
+   "value": "1 charging station every 25 km on both sides of highways",
+   "source": "MoP Guidelines for Installation and Operation of Public Charging Infrastructure (2022, amended 2023), Location of Public Charging Stations: \"At least one Charging Station shall be available in a grid of 3 Km X 3 Km. Further, one Charging Station shall be set up at every 25 Km on both sides of highways/roads.\"",
+   "kind": "norm"
+  },
+  {
+   "id": "coverage-km",
+   "label": "Coverage distance",
+   "value": "Mean distance from ~300 area-uniform sample points per district to the nearest found charger anywhere in India; within3kmShare = share of points within 3 km",
+   "source": "Not population-weighted; points over uninhabited land count equally",
+   "kind": "modelled"
+  },
+  {
+   "id": "gap-score",
+   "label": "Gap score",
+   "value": "100 x (0.4 pct-rank EVs per adjusted charger + 0.3 pct-rank coverage km + 0.3 pct-rank modelled EVs outside 3 km); no chargers = worst rank; bands are quintiles",
+   "source": "Relative ranking across districts, not an absolute shortfall",
+   "kind": "modelled"
+  }
+ ],
+ "norms": {
+  "urbanSpacingKm": 3,
+  "highwaySpacingKm": 25,
+  "source": "MoP Guidelines for Installation and Operation of Public Charging Infrastructure (2022, amended 2023), Location of Public Charging Stations: \"At least one Charging Station shall be available in a grid of 3 Km X 3 Km. Further, one Charging Station shall be set up at every 25 Km on both sides of highways/roads.\""
+ }
+}

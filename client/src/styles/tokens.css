@@ -1,0 +1,60 @@
+@import '@fontsource-variable/anek-latin/wdth.css';
+@import '@fontsource/hind/400.css';
+@import '@fontsource/hind/500.css';
+@import '@fontsource/hind/600.css';
+
+:root {
+  --peacock-900: #10201f;
+  --peacock-700: #44575a;
+  --marigold: #ffb000;
+  --rani: #d6085e;
+  --parrot: #44575a;
+  --sindoor: #d6085e;
+  --indigo-dye: #10201f;
+  --chalk: #f7f8f6;
+  --white: #ffffff;
+  --ink: #10201f;
+  --ink-soft: #44575a;
+  --line: #c9d3cd;
+
+  --gap-1: #fbdce8;
+  --gap-2: #f6a8c6;
+  --gap-3: #ec5f97;
+  --gap-4: #d6085e;
+  --gap-5: #85033a;
+  --gap-none: #e4e7e4;
+
+  /* shell text */
+  --on-peacock: #10201f;
+  --on-peacock-soft: #44575a;
+  --focus: var(--indigo-dye);
+
+  --font-display: 'Anek Latin Variable', 'Hind', system-ui, sans-serif;
+  --font-body: 'Hind', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  --fs-12: 12px;
+  --fs-13: 13px;
+  --fs-14: 14px;
+  --fs-16: 16px;
+  --fs-20: 20px;
+  --fs-28: 28px;
+  --fs-40: 40px;
+  --fs-56: 56px;
+
+  --sp-1: 4px;
+  --sp-2: 8px;
+  --sp-3: 12px;
+  --sp-4: 16px;
+  --sp-5: 24px;
+  --sp-6: 32px;
+  --sp-7: 48px;
+  --sp-8: 64px;
+
+  --radius-control: 4px;
+  --radius-panel: 8px;
+  --radius-chip: 999px;
+
+  --shadow-float: 0 2px 8px rgba(16, 32, 31, 0.16);
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --rail-w: 224px;
+}

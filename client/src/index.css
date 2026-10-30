@@ -1,4 +1,54 @@
+@import './styles/tokens.css';
+
+*, *::before, *::after { box-sizing: border-box; }
+* { margin: 0; }
+html { -webkit-text-size-adjust: 100%; }
 body {
-  font-family: system-ui, sans-serif;
-  margin: 2rem;
+  background: var(--chalk);
+  color: var(--ink);
+  font: 400 var(--fs-14)/1.5 var(--font-body);
+  font-variant-numeric: tabular-nums;
+  -webkit-font-smoothing: antialiased;
+  min-height: 100vh;
+}
+h1, h2, h3, h4 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.01em;
+  text-wrap: balance;
+}
+/* wide for page titles, condensed for dense labels */
+h1 { font-size: var(--fs-28); font-stretch: 112%; font-weight: 800; }
+h2 { font-size: var(--fs-20); font-stretch: 100%; }
+h3 { font-size: var(--fs-16); font-stretch: 88%; }
+h4 { font-size: var(--fs-13); font-stretch: 75%; font-weight: 600; }
+p { max-width: 70ch; text-wrap: pretty; }
+a { color: var(--indigo-dye); text-underline-offset: 3px; }
+button, input, select, textarea { font: inherit; color: inherit; }
+img, svg { display: block; max-width: 100%; }
+table { border-collapse: collapse; }
+small { font-size: var(--fs-12); }
+
+::selection { background: var(--marigold); color: var(--peacock-900); }
+input, textarea { caret-color: var(--rani); }
+
+:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 2px;
+  border-radius: var(--radius-control);
+}
+
+* { scrollbar-width: thin; scrollbar-color: var(--peacock-700) transparent; }
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-thumb { background: var(--peacock-700); border-radius: var(--radius-chip); border: 2px solid var(--chalk); }
+::-webkit-scrollbar-track { background: transparent; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
 }

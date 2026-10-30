@@ -1,0 +1,1378 @@
+rto,state,districtId,method,score
+AN1,Andaman and Nicobar Islands,,none,0.33
+AP102,Andhra Pradesh,,none,0.47
+AP103,Andhra Pradesh,,none,0.38
+AP104,Andhra Pradesh,,none,0.33
+AP105,Andhra Pradesh,,none,0.42
+AP107,Andhra Pradesh,,none,0.4
+AP113,Andhra Pradesh,,none,0.57
+AP114,Andhra Pradesh,,none,0.56
+AP116,Andhra Pradesh,,none,0.43
+AP121,Andhra Pradesh,,none,0.5
+AP126,Andhra Pradesh,,none,0.62
+AP127,Andhra Pradesh,,none,0.53
+AP130,Andhra Pradesh,,none,0.53
+AP131,Andhra Pradesh,,none,0.53
+AP135,Andhra Pradesh,,none,0.55
+AP137,Andhra Pradesh,,none,0.55
+AP141,Andhra Pradesh,,none,0.46
+AP16,Andhra Pradesh,,none,0.55
+AP2,Andhra Pradesh,andhra-pradesh-anantapur,exact,1.0
+AP202,Andhra Pradesh,,none,0.57
+AP203,Andhra Pradesh,,none,0.59
+AP204,Andhra Pradesh,,none,0.53
+AP205,Andhra Pradesh,,none,0.63
+AP207,Andhra Pradesh,,none,0.5
+AP21,Andhra Pradesh,andhra-pradesh-kurnool,exact,1.0
+AP216,Andhra Pradesh,,none,0.62
+AP221,Andhra Pradesh,,none,0.36
+AP226,Andhra Pradesh,,none,0.73
+AP227,Andhra Pradesh,,none,0.47
+AP230,Andhra Pradesh,,none,0.47
+AP231,Andhra Pradesh,,none,0.38
+AP235,Andhra Pradesh,,none,0.43
+AP237,Andhra Pradesh,,none,0.44
+AP26,Andhra Pradesh,andhra-pradesh-sri-potti-sriramulu-nellore,contains,0.29
+AP27,Andhra Pradesh,andhra-pradesh-prakasam,exact,1.0
+AP3,Andhra Pradesh,andhra-pradesh-chittoor,exact,1.0
+AP30,Andhra Pradesh,andhra-pradesh-srikakulam,exact,1.0
+AP302,Andhra Pradesh,,none,0.5
+AP303,Andhra Pradesh,,none,0.47
+AP304,Andhra Pradesh,,none,0.38
+AP305,Andhra Pradesh,,none,0.44
+AP307,Andhra Pradesh,,none,0.5
+AP31,Andhra Pradesh,andhra-pradesh-visakhapatnam,fuzzy,0.92
+AP316,Andhra Pradesh,,none,0.53
+AP321,Andhra Pradesh,andhra-pradesh-kurnool,contains,0.5
+AP326,Andhra Pradesh,,none,0.5
+AP327,Andhra Pradesh,,none,0.59
+AP330,Andhra Pradesh,,none,0.71
+AP331,Andhra Pradesh,,none,0.58
+AP337,Andhra Pradesh,,none,0.43
+AP35,Andhra Pradesh,andhra-pradesh-vizianagaram,exact,1.0
+AP37,Andhra Pradesh,,none,0.36
+AP4,Andhra Pradesh,,none,0.57
+AP402,Andhra Pradesh,,none,0.53
+AP403,Andhra Pradesh,,none,0.34
+AP404,Andhra Pradesh,,none,0.5
+AP405,Andhra Pradesh,,none,0.67
+AP407,Andhra Pradesh,,none,0.38
+AP41,Andhra Pradesh,,none,0.33
+AP416,Andhra Pradesh,,none,0.33
+AP421,Andhra Pradesh,,none,0.33
+AP426,Andhra Pradesh,,none,0.4
+AP427,Andhra Pradesh,,none,0.47
+AP430,Andhra Pradesh,,none,0.35
+AP437,Andhra Pradesh,,none,0.4
+AP5,Andhra Pradesh,,none,0.57
+AP502,Andhra Pradesh,,none,0.47
+AP503,Andhra Pradesh,,none,0.67
+AP504,Andhra Pradesh,,none,0.35
+AP505,Andhra Pradesh,,none,0.5
+AP507,Andhra Pradesh,,none,0.52
+AP516,Andhra Pradesh,,none,0.46
+AP537,Andhra Pradesh,,none,0.4
+AP602,Andhra Pradesh,,none,0.5
+AP603,Andhra Pradesh,,none,0.61
+AP605,Andhra Pradesh,,none,0.48
+AP607,Andhra Pradesh,,none,0.42
+AP616,Andhra Pradesh,,none,0.4
+AP637,Andhra Pradesh,,none,0.4
+AP7,Andhra Pradesh,andhra-pradesh-guntur,exact,1.0
+AP702,Andhra Pradesh,,none,0.42
+AP705,Andhra Pradesh,,none,0.57
+AP707,Andhra Pradesh,,none,0.33
+AP837,Andhra Pradesh,,none,0.47
+AP905,Andhra Pradesh,andhra-pradesh-chittoor,fuzzy,0.88
+AR1,Arunachal Pradesh,,none,0.42
+AR11,Arunachal Pradesh,arunachal-pradesh-lohit,exact,1.0
+AR12,Arunachal Pradesh,arunachal-pradesh-changlang,exact,1.0
+AR13,Arunachal Pradesh,arunachal-pradesh-tirap,exact,1.0
+AR16,Arunachal Pradesh,arunachal-pradesh-lower-dibang-valley,exact,1.0
+AR2,Arunachal Pradesh,,none,0.53
+AR20,Arunachal Pradesh,arunachal-pradesh-namsai,exact,1.0
+AR22,Arunachal Pradesh,arunachal-pradesh-lower-siang,exact,1.0
+AR25,Arunachal Pradesh,arunachal-pradesh-leparada,exact,1.0
+AR3,Arunachal Pradesh,arunachal-pradesh-tawang,exact,1.0
+AR4,Arunachal Pradesh,arunachal-pradesh-west-kameng,exact,1.0
+AR5,Arunachal Pradesh,arunachal-pradesh-east-kameng,exact,1.0
+AR6,Arunachal Pradesh,arunachal-pradesh-lower-subansiri,exact,1.0
+AR7,Arunachal Pradesh,arunachal-pradesh-upper-subansiri,exact,1.0
+AR8,Arunachal Pradesh,arunachal-pradesh-west-siang,exact,1.0
+AR9,Arunachal Pradesh,arunachal-pradesh-east-siang,exact,1.0
+AS1,Assam,assam-kamrup,exact,1.0
+AS10,Assam,assam-karimganj,exact,1.0
+AS11,Assam,assam-cachar,exact,1.0
+AS12,Assam,assam-sonitpur,exact,1.0
+AS13,Assam,assam-darrang,exact,1.0
+AS14,Assam,assam-nalbari,exact,1.0
+AS15,Assam,assam-barpeta,exact,1.0
+AS16,Assam,assam-kokrajhar,exact,1.0
+AS17,Assam,assam-dhubri,exact,1.0
+AS18,Assam,assam-goalpara,exact,1.0
+AS19,Assam,assam-bongaigaon,exact,1.0
+AS2,Assam,assam-nagaon,exact,1.0
+AS21,Assam,assam-morigaon,exact,1.0
+AS22,Assam,assam-dhemaji,exact,1.0
+AS23,Assam,assam-tinsukia,exact,1.0
+AS24,Assam,assam-hailakandi,exact,1.0
+AS25,Assam,assam-kamrup,exact,1.0
+AS26,Assam,assam-chirang,exact,1.0
+AS27,Assam,assam-udalguri,exact,1.0
+AS28,Assam,assam-baksa,fuzzy,0.8
+AS29,Assam,assam-majuli,exact,1.0
+AS3,Assam,assam-jorhat,exact,1.0
+AS31,Assam,assam-hojai,exact,1.0
+AS32,Assam,assam-biswanath,contains,0.53
+AS33,Assam,assam-charaideo,exact,1.0
+AS34,Assam,assam-south-salmara-mankachar,contains,0.57
+AS36,Assam,,none,0.67
+AS4,Assam,assam-sivasagar,exact,1.0
+AS5,Assam,assam-golaghat,exact,1.0
+AS6,Assam,assam-dibrugarh,exact,1.0
+AS7,Assam,assam-lakhimpur,exact,1.0
+AS8,Assam,assam-dima-hasao,exact,1.0
+AS9,Assam,assam-karbi-anglong-west,contains,0.75
+BR1,Bihar,bihar-patna,exact,1.0
+BR10,Bihar,bihar-bhagalpur,exact,1.0
+BR11,Bihar,bihar-purnia,fuzzy,0.83
+BR19,Bihar,bihar-saharsa,exact,1.0
+BR2,Bihar,bihar-gaya,exact,1.0
+BR21,Bihar,bihar-nalanda,exact,1.0
+BR22,Bihar,,none,0.43
+BR24,Bihar,bihar-rohtas,exact,1.0
+BR25,Bihar,bihar-jehanabad,exact,1.0
+BR26,Bihar,bihar-aurangabad,exact,1.0
+BR27,Bihar,bihar-nawada,exact,1.0
+BR28,Bihar,bihar-gopalganj,exact,1.0
+BR29,Bihar,bihar-siwan,exact,1.0
+BR3,Bihar,bihar-bhojpur,exact,1.0
+BR30,Bihar,bihar-sitamarhi,exact,1.0
+BR31,Bihar,bihar-vaishali,exact,1.0
+BR32,Bihar,bihar-madhubani,exact,1.0
+BR33,Bihar,bihar-samastipur,exact,1.0
+BR34,Bihar,bihar-khagaria,exact,1.0
+BR37,Bihar,bihar-kishanganj,exact,1.0
+BR38,Bihar,bihar-araria,exact,1.0
+BR39,Bihar,bihar-katihar,exact,1.0
+BR4,Bihar,,none,0.67
+BR43,Bihar,bihar-madhepura,exact,1.0
+BR44,Bihar,bihar-buxar,fuzzy,0.8
+BR45,Bihar,,none,0.5
+BR46,Bihar,bihar-jamui,exact,1.0
+BR5,Bihar,,none,0.67
+BR50,Bihar,bihar-supaul,exact,1.0
+BR51,Bihar,bihar-banka,exact,1.0
+BR52,Bihar,bihar-sheikhpura,exact,1.0
+BR53,Bihar,bihar-lakhisarai,exact,1.0
+BR55,Bihar,bihar-sheohar,exact,1.0
+BR56,Bihar,bihar-arwal,fuzzy,0.91
+BR6,Bihar,bihar-muzaffarpur,exact,1.0
+BR7,Bihar,bihar-darbhanga,exact,1.0
+BR8,Bihar,bihar-munger,exact,1.0
+BR9,Bihar,bihar-begusarai,exact,1.0
+CH1,Chandigarh,chandigarh-chandigarh,contains,0.83
+CG10,Chhattisgarh,chhattisgarh-bilaspur,exact,1.0
+CG11,Chhattisgarh,chhattisgarh-janjgir-champa,exact,1.0
+CG12,Chhattisgarh,chhattisgarh-korba,exact,1.0
+CG13,Chhattisgarh,chhattisgarh-raigarh,exact,1.0
+CG14,Chhattisgarh,chhattisgarh-jashpur,exact,1.0
+CG15,Chhattisgarh,,none,0.75
+CG16,Chhattisgarh,,none,0.59
+CG17,Chhattisgarh,,none,0.62
+CG18,Chhattisgarh,chhattisgarh-dakshin-bastar-dantewada,contains,0.41
+CG19,Chhattisgarh,chhattisgarh-uttar-bastar-kanker,contains,0.35
+CG20,Chhattisgarh,chhattisgarh-bijapur,exact,1.0
+CG21,Chhattisgarh,chhattisgarh-narayanpur,exact,1.0
+CG22,Chhattisgarh,chhattisgarh-baloda-bazar,exact,1.0
+CG23,Chhattisgarh,chhattisgarh-gariaband,fuzzy,0.95
+CG24,Chhattisgarh,chhattisgarh-balod,exact,1.0
+CG25,Chhattisgarh,chhattisgarh-bemetra,fuzzy,0.93
+CG26,Chhattisgarh,chhattisgarh-sukma,exact,1.0
+CG27,Chhattisgarh,chhattisgarh-kondagaon,exact,1.0
+CG28,Chhattisgarh,chhattisgarh-mungeli,exact,1.0
+CG29,Chhattisgarh,chhattisgarh-surajpur,exact,1.0
+CG30,Chhattisgarh,,none,0.67
+CG31,Chhattisgarh,chhattisgarh-gaurella-pendra-marwahi,fuzzy,0.98
+CG4,Chhattisgarh,chhattisgarh-raipur,exact,1.0
+CG5,Chhattisgarh,chhattisgarh-dhamtari,exact,1.0
+CG6,Chhattisgarh,chhattisgarh-mahasamund,exact,1.0
+CG7,Chhattisgarh,chhattisgarh-durg,exact,1.0
+CG8,Chhattisgarh,chhattisgarh-rajnandgaon,exact,1.0
+CG9,Chhattisgarh,,none,0.67
+DD1,Dadra and Nagar Haveli and Daman and Diu,,none,0.31
+DD2,Dadra and Nagar Haveli and Daman and Diu,dadra-and-nagar-haveli-and-daman-and-diu-diu,exact,1.0
+DD3,Dadra and Nagar Haveli and Daman and Diu,dadra-and-nagar-haveli-and-daman-and-diu-daman,exact,1.0
+DL1,Delhi,,none,0.62
+DL10,Delhi,delhi-central,exact,1.0
+DL11,Delhi,delhi-north,contains,0.5
+DL12,Delhi,delhi-north,exact,1.0
+DL13,Delhi,delhi-north-west,exact,1.0
+DL2,Delhi,delhi-new-delhi,exact,1.0
+DL3,Delhi,delhi-south,exact,1.0
+DL4,Delhi,delhi-west,exact,1.0
+DL5,Delhi,delhi-north-east,exact,1.0
+DL51,Delhi,,none,0.15
+DL52,Delhi,,none,0.36
+DL53,Delhi,,none,0.55
+DL6,Delhi,delhi-south-east,exact,1.0
+DL7,Delhi,delhi-east,exact,1.0
+DL8,Delhi,delhi-central,contains,0.58
+DL9,Delhi,delhi-south-west,exact,1.0
+GA10,Goa,,none,0.12
+GA11,Goa,,none,0.14
+GA12,Goa,,none,0.42
+GA3,Goa,,none,0.14
+GA4,Goa,,none,0.25
+GA5,Goa,,none,0.31
+GA6,Goa,,none,0.15
+GA7,Goa,,none,0.14
+GA8,Goa,,none,0.14
+GA9,Goa,,none,0.14
+GJ1,Gujarat,gujarat-ahmadabad,fuzzy,0.89
+GJ10,Gujarat,gujarat-jamnagar,exact,1.0
+GJ11,Gujarat,gujarat-junagadh,exact,1.0
+GJ12,Gujarat,gujarat-kachchh,exact,1.0
+GJ13,Gujarat,gujarat-surendranagar,exact,1.0
+GJ14,Gujarat,gujarat-amreli,exact,1.0
+GJ15,Gujarat,gujarat-valsad,exact,1.0
+GJ16,Gujarat,gujarat-bharuch,exact,1.0
+GJ17,Gujarat,gujarat-panch-mahals,contains,0.91
+GJ18,Gujarat,gujarat-gandhinagar,exact,1.0
+GJ19,Gujarat,,none,0.62
+GJ2,Gujarat,gujarat-mahesana,fuzzy,0.8
+GJ20,Gujarat,,none,0.6
+GJ21,Gujarat,gujarat-navsari,exact,1.0
+GJ22,Gujarat,gujarat-narmada,exact,1.0
+GJ23,Gujarat,gujarat-anand,exact,1.0
+GJ24,Gujarat,gujarat-patan,exact,1.0
+GJ25,Gujarat,gujarat-porbandar,exact,1.0
+GJ26,Gujarat,gujarat-tapi,exact,1.0
+GJ27,Gujarat,,none,0.73
+GJ3,Gujarat,gujarat-rajkot,exact,1.0
+GJ30,Gujarat,,none,0.5
+GJ31,Gujarat,,none,0.57
+GJ32,Gujarat,,none,0.71
+GJ33,Gujarat,,none,0.6
+GJ34,Gujarat,gujarat-chhota-udaipur,exact,1.0
+GJ35,Gujarat,,none,0.67
+GJ36,Gujarat,gujarat-morbi,exact,1.0
+GJ37,Gujarat,,none,0.47
+GJ38,Gujarat,,none,0.7
+GJ39,Gujarat,gujarat-kachchh,contains,0.64
+GJ4,Gujarat,gujarat-bhavnagar,exact,1.0
+GJ40,Gujarat,,none,0.62
+GJ5,Gujarat,gujarat-surat,exact,1.0
+GJ6,Gujarat,gujarat-vadodara,exact,1.0
+GJ7,Gujarat,gujarat-kheda,exact,1.0
+GJ8,Gujarat,gujarat-banas-kantha,exact,1.0
+GJ9,Gujarat,gujarat-sabar-kantha,exact,1.0
+HR1,Haryana,haryana-ambala,contains,0.6
+HR10,Haryana,haryana-sonipat,fuzzy,0.86
+HR11,Haryana,,none,0.5
+HR12,Haryana,haryana-rohtak,exact,1.0
+HR13,Haryana,,none,0.61
+HR14,Haryana,haryana-jhajjar,fuzzy,0.86
+HR15,Haryana,,none,0.6
+HR16,Haryana,haryana-bhiwani,exact,1.0
+HR17,Haryana,,none,0.77
+HR18,Haryana,,none,0.55
+HR19,Haryana,,none,0.57
+HR2,Haryana,,none,0.43
+HR20,Haryana,haryana-hisar,exact,1.0
+HR21,Haryana,,none,0.67
+HR22,Haryana,haryana-fatehabad,exact,1.0
+HR23,Haryana,,none,0.53
+HR24,Haryana,haryana-sirsa,exact,1.0
+HR25,Haryana,,none,0.62
+HR26,Haryana,,none,0.67
+HR27,Haryana,,none,0.33
+HR28,Haryana,,none,0.33
+HR29,Haryana,,none,0.55
+HR3,Haryana,haryana-panchkula,exact,1.0
+HR30,Haryana,haryana-palwal,exact,1.0
+HR31,Haryana,haryana-jind,exact,1.0
+HR32,Haryana,,none,0.5
+HR33,Haryana,,none,0.43
+HR34,Haryana,haryana-mahendragarh,fuzzy,0.92
+HR35,Haryana,,none,0.77
+HR36,Haryana,haryana-rewari,exact,1.0
+HR37,Haryana,haryana-ambala,exact,1.0
+HR38,Haryana,haryana-faridabad,exact,1.0
+HR39,Haryana,haryana-hisar,exact,1.0
+HR4,Haryana,,none,0.64
+HR40,Haryana,,none,0.5
+HR41,Haryana,,none,0.55
+HR42,Haryana,,none,0.5
+HR43,Haryana,,none,0.4
+HR44,Haryana,,none,0.59
+HR45,Haryana,haryana-karnal,exact,1.0
+HR46,Haryana,haryana-rohtak,exact,1.0
+HR47,Haryana,haryana-rewari,exact,1.0
+HR48,Haryana,,none,0.46
+HR49,Haryana,,none,0.55
+HR5,Haryana,haryana-karnal,exact,1.0
+HR50,Haryana,,none,0.33
+HR51,Haryana,haryana-faridabad,exact,1.0
+HR52,Haryana,,none,0.46
+HR54,Haryana,,none,0.5
+HR55,Haryana,haryana-gurgaon,exact,1.0
+HR56,Haryana,haryana-jind,exact,1.0
+HR57,Haryana,haryana-sirsa,exact,1.0
+HR58,Haryana,,none,0.43
+HR59,Haryana,,none,0.55
+HR6,Haryana,haryana-panipat,exact,1.0
+HR60,Haryana,,none,0.71
+HR61,Haryana,haryana-bhiwani,exact,1.0
+HR62,Haryana,haryana-fatehabad,exact,1.0
+HR63,Haryana,haryana-jhajjar,contains,0.35
+HR64,Haryana,haryana-kaithal,exact,1.0
+HR65,Haryana,haryana-kurukshetra,exact,1.0
+HR66,Haryana,,none,0.75
+HR67,Haryana,haryana-panipat,exact,1.0
+HR68,Haryana,haryana-panchkula,exact,1.0
+HR69,Haryana,haryana-sonipat,fuzzy,0.86
+HR7,Haryana,,none,0.62
+HR70,Haryana,,none,0.43
+HR71,Haryana,,none,0.46
+HR72,Haryana,,none,0.6
+HR73,Haryana,haryana-palwal,exact,1.0
+HR74,Haryana,,none,0.33
+HR75,Haryana,,none,0.6
+HR76,Haryana,,none,0.5
+HR77,Haryana,,none,0.6
+HR78,Haryana,,none,0.71
+HR79,Haryana,,none,0.62
+HR8,Haryana,haryana-kaithal,exact,1.0
+HR80,Haryana,,none,0.62
+HR81,Haryana,,none,0.73
+HR82,Haryana,,none,0.67
+HR83,Haryana,,none,0.46
+HR84,Haryana,,none,0.6
+HR85,Haryana,haryana-ambala,contains,0.38
+HR86,Haryana,,none,0.57
+HR87,Haryana,,none,0.57
+HR88,Haryana,,none,0.5
+HR89,Haryana,,none,0.55
+HR9,Haryana,,none,0.5
+HR90,Haryana,,none,0.5
+HR91,Haryana,,none,0.44
+HR92,Haryana,,none,0.5
+HR93,Haryana,,none,0.57
+HR94,Haryana,,none,0.67
+HR95,Haryana,,none,0.67
+HR96,Haryana,,none,0.4
+HR97,Haryana,,none,0.55
+HR98,Haryana,,none,0.38
+HP10,Himachal Pradesh,,none,0.33
+HP100,Himachal Pradesh,,none,0.46
+HP101,Himachal Pradesh,,none,0.5
+HP102,Himachal Pradesh,,none,0.4
+HP11,Himachal Pradesh,,none,0.44
+HP12,Himachal Pradesh,,none,0.4
+HP123,Himachal Pradesh,,none,0.35
+HP124,Himachal Pradesh,,none,0.67
+HP125,Himachal Pradesh,,none,0.46
+HP127,Himachal Pradesh,,none,0.6
+HP128,Himachal Pradesh,,none,0.5
+HP129,Himachal Pradesh,,none,0.36
+HP13,Himachal Pradesh,,none,0.53
+HP14,Himachal Pradesh,himachal-pradesh-solan,exact,1.0
+HP15,Himachal Pradesh,,none,0.31
+HP16,Himachal Pradesh,,none,0.43
+HP17,Himachal Pradesh,,none,0.38
+HP18,Himachal Pradesh,,none,0.5
+HP19,Himachal Pradesh,,none,0.67
+HP20,Himachal Pradesh,himachal-pradesh-una,exact,1.0
+HP21,Himachal Pradesh,,none,0.5
+HP22,Himachal Pradesh,himachal-pradesh-hamirpur,exact,1.0
+HP23,Himachal Pradesh,,none,0.46
+HP24,Himachal Pradesh,himachal-pradesh-bilaspur,exact,1.0
+HP25,Himachal Pradesh,,none,0.55
+HP26,Himachal Pradesh,,none,0.5
+HP27,Himachal Pradesh,,none,0.22
+HP28,Himachal Pradesh,,none,0.53
+HP29,Himachal Pradesh,,none,0.5
+HP3,Himachal Pradesh,himachal-pradesh-shimla,contains,0.43
+HP30,Himachal Pradesh,,none,0.5
+HP31,Himachal Pradesh,,none,0.44
+HP32,Himachal Pradesh,,none,0.46
+HP33,Himachal Pradesh,himachal-pradesh-mandi,exact,1.0
+HP34,Himachal Pradesh,himachal-pradesh-kullu,fuzzy,0.89
+HP35,Himachal Pradesh,,none,0.75
+HP36,Himachal Pradesh,,none,0.36
+HP37,Himachal Pradesh,,none,0.62
+HP38,Himachal Pradesh,,none,0.57
+HP39,Himachal Pradesh,,none,0.47
+HP40,Himachal Pradesh,himachal-pradesh-kangra,exact,1.0
+HP42,Himachal Pradesh,,none,0.67
+HP43,Himachal Pradesh,,none,0.67
+HP44,Himachal Pradesh,,none,0.5
+HP45,Himachal Pradesh,,none,0.6
+HP46,Himachal Pradesh,,none,0.62
+HP47,Himachal Pradesh,,none,0.29
+HP48,Himachal Pradesh,himachal-pradesh-chamba,exact,1.0
+HP49,Himachal Pradesh,,none,0.5
+HP51,Himachal Pradesh,himachal-pradesh-shimla,exact,1.0
+HP53,Himachal Pradesh,,none,0.43
+HP54,Himachal Pradesh,,none,0.36
+HP55,Himachal Pradesh,,none,0.46
+HP56,Himachal Pradesh,,none,0.56
+HP57,Himachal Pradesh,,none,0.46
+HP58,Himachal Pradesh,,none,0.73
+HP6,Himachal Pradesh,,none,0.5
+HP62,Himachal Pradesh,himachal-pradesh-shimla,contains,0.67
+HP63,Himachal Pradesh,himachal-pradesh-shimla,exact,1.0
+HP64,Himachal Pradesh,himachal-pradesh-solan,exact,1.0
+HP65,Himachal Pradesh,himachal-pradesh-mandi,exact,1.0
+HP66,Himachal Pradesh,himachal-pradesh-kullu,exact,1.0
+HP67,Himachal Pradesh,himachal-pradesh-hamirpur,exact,1.0
+HP68,Himachal Pradesh,,none,0.47
+HP69,Himachal Pradesh,himachal-pradesh-bilaspur,exact,1.0
+HP71,Himachal Pradesh,,none,0.5
+HP72,Himachal Pradesh,himachal-pradesh-una,exact,1.0
+HP73,Himachal Pradesh,himachal-pradesh-chamba,exact,1.0
+HP74,Himachal Pradesh,,none,0.5
+HP75,Himachal Pradesh,,none,0.44
+HP76,Himachal Pradesh,,none,0.4
+HP77,Himachal Pradesh,,none,0.35
+HP78,Himachal Pradesh,,none,0.62
+HP8,Himachal Pradesh,,none,0.5
+HP80,Himachal Pradesh,,none,0.43
+HP82,Himachal Pradesh,,none,0.4
+HP83,Himachal Pradesh,,none,0.31
+HP84,Himachal Pradesh,,none,0.53
+HP85,Himachal Pradesh,,none,0.77
+HP86,Himachal Pradesh,,none,0.71
+HP87,Himachal Pradesh,,none,0.67
+HP88,Himachal Pradesh,,none,0.5
+HP89,Himachal Pradesh,,none,0.45
+HP9,Himachal Pradesh,,none,0.2
+HP90,Himachal Pradesh,,none,0.67
+HP91,Himachal Pradesh,,none,0.33
+HP92,Himachal Pradesh,,none,0.71
+HP93,Himachal Pradesh,,none,0.6
+HP94,Himachal Pradesh,,none,0.42
+HP95,Himachal Pradesh,,none,0.53
+HP96,Himachal Pradesh,,none,0.33
+HP97,Himachal Pradesh,,none,0.5
+HP98,Himachal Pradesh,,none,0.5
+HP99,Himachal Pradesh,,none,0.4
+JK1,Jammu and Kashmir,jammu-and-kashmir-srinagar,exact,1.0
+JK11,Jammu and Kashmir,jammu-and-kashmir-rajouri,exact,1.0
+JK12,Jammu and Kashmir,,none,0.73
+JK13,Jammu and Kashmir,jammu-and-kashmir-pulwama,exact,1.0
+JK14,Jammu and Kashmir,jammu-and-kashmir-udhampur,exact,1.0
+JK15,Jammu and Kashmir,jammu-and-kashmir-bandipore,fuzzy,0.89
+JK16,Jammu and Kashmir,jammu-and-kashmir-ganderbal,exact,1.0
+JK17,Jammu and Kashmir,jammu-and-kashmir-kishtwar,exact,1.0
+JK18,Jammu and Kashmir,jammu-and-kashmir-kulgam,exact,1.0
+JK19,Jammu and Kashmir,jammu-and-kashmir-ramban,exact,1.0
+JK2,Jammu and Kashmir,jammu-and-kashmir-jammu,exact,1.0
+JK20,Jammu and Kashmir,jammu-and-kashmir-reasi,exact,1.0
+JK21,Jammu and Kashmir,jammu-and-kashmir-samba,exact,1.0
+JK22,Jammu and Kashmir,jammu-and-kashmir-shupiyan,fuzzy,0.8
+JK3,Jammu and Kashmir,jammu-and-kashmir-anantnag,exact,1.0
+JK4,Jammu and Kashmir,jammu-and-kashmir-badgam,fuzzy,0.83
+JK5,Jammu and Kashmir,jammu-and-kashmir-baramula,fuzzy,0.94
+JK6,Jammu and Kashmir,jammu-and-kashmir-doda,exact,1.0
+JK8,Jammu and Kashmir,jammu-and-kashmir-kathua,exact,1.0
+JK9,Jammu and Kashmir,jammu-and-kashmir-kupwara,exact,1.0
+JH1,Jharkhand,jharkhand-ranchi,exact,1.0
+JH10,Jharkhand,jharkhand-dhanbad,exact,1.0
+JH11,Jharkhand,jharkhand-giridih,exact,1.0
+JH12,Jharkhand,jharkhand-kodarma,fuzzy,0.86
+JH13,Jharkhand,jharkhand-chatra,exact,1.0
+JH14,Jharkhand,jharkhand-garhwa,exact,1.0
+JH15,Jharkhand,jharkhand-deoghar,exact,1.0
+JH16,Jharkhand,jharkhand-pakur,exact,1.0
+JH17,Jharkhand,jharkhand-godda,exact,1.0
+JH18,Jharkhand,jharkhand-sahibganj,fuzzy,0.89
+JH19,Jharkhand,jharkhand-latehar,exact,1.0
+JH2,Jharkhand,jharkhand-hazaribagh,contains,0.9
+JH20,Jharkhand,jharkhand-simdega,exact,1.0
+JH21,Jharkhand,jharkhand-jamtara,exact,1.0
+JH22,Jharkhand,jharkhand-saraikela-kharsawan,exact,1.0
+JH23,Jharkhand,jharkhand-khunti,exact,1.0
+JH24,Jharkhand,jharkhand-ramgarh,exact,1.0
+JH3,Jharkhand,jharkhand-palamu,exact,1.0
+JH4,Jharkhand,jharkhand-dumka,exact,1.0
+JH5,Jharkhand,,none,0.71
+JH6,Jharkhand,,none,0.67
+JH7,Jharkhand,jharkhand-gumla,exact,1.0
+JH8,Jharkhand,jharkhand-lohardaga,exact,1.0
+JH9,Jharkhand,jharkhand-bokaro,exact,1.0
+KA1,Karnataka,karnataka-bangalore,alias,1.0
+KA10,Karnataka,karnataka-chamarajanagar,exact,1.0
+KA11,Karnataka,karnataka-mandya,exact,1.0
+KA12,Karnataka,,none,0.57
+KA13,Karnataka,karnataka-hassan,exact,1.0
+KA14,Karnataka,karnataka-shimoga,exact,1.0
+KA15,Karnataka,,none,0.57
+KA16,Karnataka,karnataka-chitradurga,exact,1.0
+KA17,Karnataka,karnataka-davanagere,exact,1.0
+KA18,Karnataka,karnataka-chikmagalur,fuzzy,0.87
+KA19,Karnataka,karnataka-bangalore,fuzzy,0.89
+KA2,Karnataka,karnataka-bangalore,alias,1.0
+KA20,Karnataka,karnataka-udupi,exact,1.0
+KA21,Karnataka,,none,0.5
+KA22,Karnataka,karnataka-belgaum,alias,1.0
+KA23,Karnataka,,none,0.43
+KA24,Karnataka,,none,0.63
+KA25,Karnataka,karnataka-dharwad,contains,0.64
+KA26,Karnataka,karnataka-gadag,exact,1.0
+KA27,Karnataka,karnataka-haveri,exact,1.0
+KA28,Karnataka,karnataka-bijapur,exact,1.0
+KA29,Karnataka,karnataka-bagalkot,exact,1.0
+KA3,Karnataka,karnataka-bangalore,alias,1.0
+KA30,Karnataka,,none,0.62
+KA31,Karnataka,,none,0.4
+KA32,Karnataka,,none,0.56
+KA33,Karnataka,karnataka-yadgir,contains,0.86
+KA34,Karnataka,karnataka-bellary,exact,1.0
+KA35,Karnataka,,none,0.33
+KA36,Karnataka,karnataka-raichur,exact,1.0
+KA37,Karnataka,karnataka-koppal,exact,1.0
+KA38,Karnataka,karnataka-bidar,exact,1.0
+KA39,Karnataka,,none,0.57
+KA4,Karnataka,karnataka-bangalore,alias,1.0
+KA40,Karnataka,karnataka-chikkaballapura,fuzzy,0.9
+KA41,Karnataka,,none,0.52
+KA42,Karnataka,karnataka-ramanagara,contains,0.9
+KA43,Karnataka,,none,0.48
+KA44,Karnataka,,none,0.62
+KA45,Karnataka,,none,0.5
+KA46,Karnataka,,none,0.54
+KA47,Karnataka,,none,0.57
+KA48,Karnataka,,none,0.53
+KA49,Karnataka,,none,0.4
+KA5,Karnataka,karnataka-bangalore,alias,1.0
+KA50,Karnataka,karnataka-bangalore,alias,1.0
+KA51,Karnataka,karnataka-bangalore,alias,1.0
+KA52,Karnataka,,none,0.67
+KA53,Karnataka,karnataka-bangalore,alias,1.0
+KA54,Karnataka,,none,0.5
+KA55,Karnataka,,none,0.62
+KA56,Karnataka,,none,0.44
+KA59,Karnataka,karnataka-bangalore,alias,1.0
+KA6,Karnataka,karnataka-tumkur,exact,1.0
+KA63,Karnataka,karnataka-dharwad,contains,0.64
+KA64,Karnataka,,none,0.52
+KA65,Karnataka,,none,0.47
+KA66,Karnataka,,none,0.67
+KA67,Karnataka,,none,0.57
+KA68,Karnataka,,none,0.59
+KA69,Karnataka,,none,0.74
+KA7,Karnataka,karnataka-kolar,exact,1.0
+KA70,Karnataka,,none,0.59
+KA71,Karnataka,,none,0.5
+KA8,Karnataka,,none,0.44
+KA9,Karnataka,,none,0.62
+KL1,Kerala,kerala-thiruvananthapuram,alias,1.0
+KL10,Kerala,kerala-malappuram,exact,1.0
+KL11,Kerala,kerala-kozhikode,exact,1.0
+KL12,Kerala,kerala-wayanad,exact,1.0
+KL13,Kerala,kerala-kannur,exact,1.0
+KL14,Kerala,kerala-kasaragod,fuzzy,0.89
+KL15,Kerala,,none,0.38
+KL16,Kerala,,none,0.45
+KL17,Kerala,,none,0.57
+KL18,Kerala,,none,0.47
+KL19,Kerala,,none,0.47
+KL2,Kerala,kerala-kollam,exact,1.0
+KL20,Kerala,,none,0.4
+KL21,Kerala,,none,0.44
+KL22,Kerala,,none,0.5
+KL23,Kerala,,none,0.44
+KL24,Kerala,,none,0.6
+KL25,Kerala,,none,0.46
+KL26,Kerala,,none,0.36
+KL27,Kerala,,none,0.57
+KL28,Kerala,,none,0.67
+KL29,Kerala,,none,0.63
+KL3,Kerala,kerala-pathanamthitta,exact,1.0
+KL30,Kerala,,none,0.62
+KL31,Kerala,,none,0.57
+KL32,Kerala,,none,0.56
+KL33,Kerala,,none,0.4
+KL34,Kerala,,none,0.45
+KL35,Kerala,,none,0.62
+KL36,Kerala,,none,0.5
+KL37,Kerala,,none,0.4
+KL38,Kerala,,none,0.53
+KL39,Kerala,,none,0.5
+KL4,Kerala,kerala-alappuzha,exact,1.0
+KL40,Kerala,,none,0.42
+KL41,Kerala,,none,0.57
+KL42,Kerala,,none,0.56
+KL43,Kerala,,none,0.4
+KL44,Kerala,,none,0.53
+KL45,Kerala,,none,0.57
+KL46,Kerala,,none,0.44
+KL47,Kerala,,none,0.47
+KL48,Kerala,,none,0.45
+KL49,Kerala,,none,0.59
+KL5,Kerala,kerala-kottayam,exact,1.0
+KL50,Kerala,,none,0.5
+KL51,Kerala,,none,0.67
+KL52,Kerala,,none,0.5
+KL53,Kerala,,none,0.45
+KL54,Kerala,,none,0.38
+KL55,Kerala,,none,0.71
+KL56,Kerala,,none,0.57
+KL57,Kerala,,none,0.53
+KL58,Kerala,,none,0.56
+KL59,Kerala,,none,0.55
+KL6,Kerala,kerala-idukki,exact,1.0
+KL60,Kerala,,none,0.56
+KL61,Kerala,,none,0.67
+KL62,Kerala,,none,0.55
+KL63,Kerala,,none,0.45
+KL64,Kerala,,none,0.67
+KL65,Kerala,,none,0.5
+KL66,Kerala,,none,0.59
+KL67,Kerala,,none,0.47
+KL68,Kerala,,none,0.67
+KL69,Kerala,,none,0.36
+KL7,Kerala,kerala-ernakulam,exact,1.0
+KL70,Kerala,,none,0.53
+KL71,Kerala,,none,0.47
+KL72,Kerala,,none,0.53
+KL73,Kerala,,none,0.5
+KL74,Kerala,,none,0.59
+KL75,Kerala,,none,0.56
+KL76,Kerala,,none,0.43
+KL77,Kerala,,none,0.47
+KL78,Kerala,,none,0.43
+KL79,Kerala,,none,0.4
+KL8,Kerala,kerala-thrissur,exact,1.0
+KL80,Kerala,,none,0.67
+KL81,Kerala,,none,0.5
+KL82,Kerala,,none,0.38
+KL83,Kerala,,none,0.55
+KL84,Kerala,,none,0.62
+KL85,Kerala,,none,0.52
+KL86,Kerala,,none,0.67
+KL9,Kerala,kerala-palakkad,exact,1.0
+LA1,Ladakh,ladakh-kargil,exact,1.0
+LA2,Ladakh,ladakh-leh-ladakh,exact,1.0
+LD1,Lakshadweep,,none,0.2
+LD2,Lakshadweep,,none,0.24
+LD3,Lakshadweep,,none,0.12
+LD4,Lakshadweep,,none,0.22
+LD5,Lakshadweep,,none,0.22
+LD6,Lakshadweep,,none,0.35
+LD7,Lakshadweep,,none,0.33
+LD8,Lakshadweep,,none,0.24
+LD9,Lakshadweep,,none,0.0
+MP10,Madhya Pradesh,madhya-pradesh-khargone-west-nimar,exact,1.0
+MP11,Madhya Pradesh,madhya-pradesh-dhar,exact,1.0
+MP12,Madhya Pradesh,madhya-pradesh-khandwa-east-nimar,exact,1.0
+MP13,Madhya Pradesh,madhya-pradesh-ujjain,exact,1.0
+MP14,Madhya Pradesh,madhya-pradesh-mandsaur,exact,1.0
+MP15,Madhya Pradesh,madhya-pradesh-sagar,exact,1.0
+MP16,Madhya Pradesh,madhya-pradesh-chhatarpur,exact,1.0
+MP17,Madhya Pradesh,madhya-pradesh-rewa,exact,1.0
+MP18,Madhya Pradesh,madhya-pradesh-shahdol,exact,1.0
+MP19,Madhya Pradesh,madhya-pradesh-satna,exact,1.0
+MP20,Madhya Pradesh,madhya-pradesh-jabalpur,exact,1.0
+MP21,Madhya Pradesh,madhya-pradesh-katni,exact,1.0
+MP22,Madhya Pradesh,madhya-pradesh-seoni,exact,1.0
+MP28,Madhya Pradesh,madhya-pradesh-chhindwara,exact,1.0
+MP30,Madhya Pradesh,madhya-pradesh-bhind,exact,1.0
+MP31,Madhya Pradesh,madhya-pradesh-sheopur,exact,1.0
+MP32,Madhya Pradesh,madhya-pradesh-datia,exact,1.0
+MP33,Madhya Pradesh,madhya-pradesh-shivpuri,exact,1.0
+MP34,Madhya Pradesh,madhya-pradesh-damoh,exact,1.0
+MP35,Madhya Pradesh,madhya-pradesh-panna,exact,1.0
+MP36,Madhya Pradesh,madhya-pradesh-tikamgarh,exact,1.0
+MP37,Madhya Pradesh,madhya-pradesh-sehore,exact,1.0
+MP38,Madhya Pradesh,madhya-pradesh-raisen,exact,1.0
+MP39,Madhya Pradesh,madhya-pradesh-rajgarh,exact,1.0
+MP4,Madhya Pradesh,madhya-pradesh-bhopal,exact,1.0
+MP40,Madhya Pradesh,madhya-pradesh-vidisha,exact,1.0
+MP41,Madhya Pradesh,madhya-pradesh-dewas,exact,1.0
+MP42,Madhya Pradesh,madhya-pradesh-shajapur,exact,1.0
+MP43,Madhya Pradesh,madhya-pradesh-ratlam,exact,1.0
+MP44,Madhya Pradesh,madhya-pradesh-neemuch,exact,1.0
+MP45,Madhya Pradesh,madhya-pradesh-jhabua,exact,1.0
+MP46,Madhya Pradesh,madhya-pradesh-barwani,fuzzy,0.86
+MP47,Madhya Pradesh,madhya-pradesh-harda,exact,1.0
+MP48,Madhya Pradesh,madhya-pradesh-betul,exact,1.0
+MP49,Madhya Pradesh,madhya-pradesh-narsimhapur,fuzzy,0.82
+MP5,Madhya Pradesh,madhya-pradesh-hoshangabad,fuzzy,0.95
+MP50,Madhya Pradesh,madhya-pradesh-balaghat,exact,1.0
+MP51,Madhya Pradesh,madhya-pradesh-mandla,exact,1.0
+MP52,Madhya Pradesh,madhya-pradesh-dindori,exact,1.0
+MP53,Madhya Pradesh,madhya-pradesh-sidhi,exact,1.0
+MP54,Madhya Pradesh,madhya-pradesh-umaria,exact,1.0
+MP6,Madhya Pradesh,madhya-pradesh-morena,exact,1.0
+MP65,Madhya Pradesh,madhya-pradesh-anuppur,exact,1.0
+MP66,Madhya Pradesh,madhya-pradesh-singrauli,fuzzy,0.82
+MP67,Madhya Pradesh,madhya-pradesh-ashoknagar,exact,1.0
+MP68,Madhya Pradesh,madhya-pradesh-burhanpur,exact,1.0
+MP69,Madhya Pradesh,madhya-pradesh-alirajpur,exact,1.0
+MP7,Madhya Pradesh,madhya-pradesh-gwalior,exact,1.0
+MP70,Madhya Pradesh,madhya-pradesh-agar,contains,0.44
+MP71,Madhya Pradesh,madhya-pradesh-niwari,exact,1.0
+MP8,Madhya Pradesh,madhya-pradesh-guna,exact,1.0
+MP9,Madhya Pradesh,madhya-pradesh-indore,exact,1.0
+MH1,Maharashtra,maharashtra-mumbai,exact,1.0
+MH10,Maharashtra,maharashtra-sangli,exact,1.0
+MH11,Maharashtra,maharashtra-satara,exact,1.0
+MH12,Maharashtra,maharashtra-pune,exact,1.0
+MH13,Maharashtra,maharashtra-solapur,exact,1.0
+MH14,Maharashtra,maharashtra-pune,alias,1.0
+MH15,Maharashtra,maharashtra-nashik,exact,1.0
+MH16,Maharashtra,,none,0.76
+MH17,Maharashtra,,none,0.62
+MH18,Maharashtra,maharashtra-dhule,exact,1.0
+MH19,Maharashtra,maharashtra-jalgaon,exact,1.0
+MH2,Maharashtra,maharashtra-mumbai,exact,1.0
+MH20,Maharashtra,maharashtra-aurangabad,alias,1.0
+MH21,Maharashtra,maharashtra-jalna,fuzzy,0.91
+MH22,Maharashtra,maharashtra-parbhani,exact,1.0
+MH23,Maharashtra,,none,0.57
+MH24,Maharashtra,maharashtra-latur,exact,1.0
+MH25,Maharashtra,,none,0.53
+MH26,Maharashtra,maharashtra-nanded,exact,1.0
+MH27,Maharashtra,maharashtra-amravati,fuzzy,0.88
+MH28,Maharashtra,maharashtra-buldana,fuzzy,0.93
+MH29,Maharashtra,maharashtra-yavatmal,fuzzy,0.88
+MH3,Maharashtra,maharashtra-mumbai,exact,1.0
+MH30,Maharashtra,maharashtra-akola,exact,1.0
+MH31,Maharashtra,maharashtra-nagpur,exact,1.0
+MH32,Maharashtra,maharashtra-wardha,exact,1.0
+MH33,Maharashtra,maharashtra-gadchiroli,exact,1.0
+MH34,Maharashtra,maharashtra-chandrapur,exact,1.0
+MH35,Maharashtra,maharashtra-gondiya,fuzzy,0.86
+MH36,Maharashtra,maharashtra-bhandara,exact,1.0
+MH37,Maharashtra,maharashtra-washim,exact,1.0
+MH38,Maharashtra,maharashtra-hingoli,contains,0.41
+MH39,Maharashtra,maharashtra-nandurbar,exact,1.0
+MH4,Maharashtra,maharashtra-thane,exact,1.0
+MH40,Maharashtra,maharashtra-nagpur,exact,1.0
+MH41,Maharashtra,maharashtra-jalgaon,fuzzy,0.8
+MH42,Maharashtra,,none,0.75
+MH43,Maharashtra,,none,0.73
+MH44,Maharashtra,,none,0.53
+MH45,Maharashtra,,none,0.6
+MH46,Maharashtra,,none,0.6
+MH47,Maharashtra,,none,0.42
+MH48,Maharashtra,,none,0.55
+MH49,Maharashtra,maharashtra-nagpur,exact,1.0
+MH5,Maharashtra,,none,0.62
+MH50,Maharashtra,,none,0.55
+MH51,Maharashtra,,none,0.5
+MH52,Maharashtra,,none,0.71
+MH53,Maharashtra,,none,0.57
+MH54,Maharashtra,,none,0.67
+MH55,Maharashtra,,none,0.43
+MH56,Maharashtra,,none,0.67
+MH57,Maharashtra,,none,0.57
+MH58,Maharashtra,,none,0.45
+MH6,Maharashtra,,none,0.57
+MH7,Maharashtra,maharashtra-sindhudurg,exact,1.0
+MH8,Maharashtra,maharashtra-ratnagiri,contains,0.82
+MH9,Maharashtra,maharashtra-kolhapur,exact,1.0
+MN1,Manipur,manipur-imphal-west,exact,1.0
+MN10,Manipur,manipur-tamenglong,exact,1.0
+MN13,Manipur,manipur-kakching,exact,1.0
+MN14,Manipur,manipur-jiribam,exact,1.0
+MN2,Manipur,manipur-churachandpur,exact,1.0
+MN4,Manipur,manipur-thoubal,exact,1.0
+MN5,Manipur,manipur-bishnupur,exact,1.0
+MN6,Manipur,manipur-imphal-east,exact,1.0
+MN8,Manipur,manipur-senapati,exact,1.0
+MN9,Manipur,manipur-chandel,exact,1.0
+ML10,Meghalaya,,none,0.48
+ML11,Meghalaya,,none,0.25
+ML12,Meghalaya,,none,0.26
+ML13,Meghalaya,,none,0.33
+ML14,Meghalaya,,none,0.36
+ML15,Meghalaya,,none,0.26
+ML4,Meghalaya,,none,0.36
+ML5,Meghalaya,,none,0.48
+ML6,Meghalaya,,none,0.37
+ML7,Meghalaya,,none,0.32
+ML8,Meghalaya,,none,0.24
+ML9,Meghalaya,,none,0.38
+MZ1,Mizoram,mizoram-aizawl,exact,1.0
+MZ10,Mizoram,mizoram-khawzawl,exact,1.0
+MZ11,Mizoram,mizoram-hnahthial,exact,1.0
+MZ2,Mizoram,mizoram-lunglei,exact,1.0
+MZ3,Mizoram,mizoram-saiha,exact,1.0
+MZ4,Mizoram,mizoram-champhai,exact,1.0
+MZ5,Mizoram,mizoram-kolasib,exact,1.0
+MZ6,Mizoram,mizoram-serchhip,exact,1.0
+MZ7,Mizoram,mizoram-lawngtlai,exact,1.0
+MZ8,Mizoram,mizoram-mamit,exact,1.0
+MZ9,Mizoram,mizoram-saitual,exact,1.0
+NL1,Nagaland,nagaland-kohima,exact,1.0
+NL2,Nagaland,nagaland-mokokchung,exact,1.0
+NL7,Nagaland,nagaland-dimapur,exact,1.0
+OD1,Odisha,odisha-baleshwar,exact,1.0
+OD10,Odisha,odisha-koraput,exact,1.0
+OD11,Odisha,odisha-mayurbhanj,exact,1.0
+OD111,Odisha,,none,0.73
+OD12,Odisha,odisha-kandhamal,contains,0.9
+OD13,Odisha,odisha-puri,exact,1.0
+OD14,Odisha,,none,0.44
+OD15,Odisha,odisha-sambalpur,exact,1.0
+OD16,Odisha,,none,0.76
+OD17,Odisha,,none,0.75
+OD18,Odisha,odisha-rayagada,exact,1.0
+OD19,Odisha,,none,0.77
+OD2,Odisha,odisha-khordha,alias,1.0
+OD20,Odisha,odisha-gajapati,exact,1.0
+OD201,Odisha,odisha-khordha,exact,1.0
+OD21,Odisha,odisha-jagatsinghapur,fuzzy,0.96
+OD22,Odisha,odisha-bhadrak,exact,1.0
+OD23,Odisha,odisha-jharsuguda,exact,1.0
+OD24,Odisha,odisha-nabarangapur,fuzzy,0.96
+OD25,Odisha,odisha-rayagada,fuzzy,0.88
+OD26,Odisha,odisha-nuapada,exact,1.0
+OD27,Odisha,odisha-baudh,fuzzy,0.8
+OD28,Odisha,,none,0.75
+OD29,Odisha,odisha-kendrapara,fuzzy,0.9
+OD3,Odisha,odisha-balangir,exact,1.0
+OD30,Odisha,odisha-malkangiri,exact,1.0
+OD31,Odisha,odisha-subarnapur,exact,1.0
+OD32,Odisha,,none,0.56
+OD33,Odisha,odisha-khordha,alias,1.0
+OD34,Odisha,odisha-jajapur,fuzzy,0.92
+OD35,Odisha,,none,0.5
+OD4,Odisha,,none,0.5
+OD5,Odisha,odisha-cuttack,alias,1.0
+OD6,Odisha,odisha-dhenkanal,exact,1.0
+OD7,Odisha,odisha-ganjam,exact,1.0
+OD8,Odisha,odisha-kalahandi,exact,1.0
+OD9,Odisha,odisha-kendujhar,exact,1.0
+OD901,Odisha,,none,0.57
+PY1,Puducherry,puducherry-puducherry,exact,1.0
+PY11,Puducherry,,none,0.4
+PY2,Puducherry,puducherry-karaikal,exact,1.0
+PY3,Puducherry,puducherry-mahe,exact,1.0
+PY4,Puducherry,puducherry-yanam,exact,1.0
+PY5,Puducherry,,none,0.33
+PY51,Puducherry,,none,0.35
+PB1,Punjab,,none,0.5
+PB10,Punjab,punjab-ludhiana,exact,1.0
+PB11,Punjab,punjab-patiala,exact,1.0
+PB12,Punjab,,none,0.62
+PB13,Punjab,punjab-sangrur,exact,1.0
+PB14,Punjab,,none,0.77
+PB15,Punjab,,none,0.53
+PB16,Punjab,,none,0.59
+PB17,Punjab,,none,0.59
+PB18,Punjab,,none,0.77
+PB19,Punjab,punjab-barnala,exact,1.0
+PB2,Punjab,punjab-amritsar,exact,1.0
+PB20,Punjab,,none,0.67
+PB21,Punjab,,none,0.55
+PB22,Punjab,punjab-fazilka,exact,1.0
+PB23,Punjab,punjab-fatehgarh-sahib,exact,1.0
+PB24,Punjab,,none,0.53
+PB25,Punjab,,none,0.5
+PB26,Punjab,,none,0.57
+PB27,Punjab,,none,0.5
+PB28,Punjab,,none,0.56
+PB29,Punjab,punjab-moga,exact,1.0
+PB3,Punjab,punjab-bathinda,exact,1.0
+PB30,Punjab,punjab-muktsar,contains,0.58
+PB31,Punjab,punjab-mansa,exact,1.0
+PB32,Punjab,,none,0.62
+PB33,Punjab,,none,0.53
+PB34,Punjab,,none,0.5
+PB35,Punjab,punjab-pathankot,exact,1.0
+PB36,Punjab,,none,0.62
+PB37,Punjab,,none,0.44
+PB38,Punjab,,none,0.67
+PB39,Punjab,,none,0.62
+PB4,Punjab,punjab-faridkot,exact,1.0
+PB40,Punjab,,none,0.57
+PB41,Punjab,,none,0.48
+PB42,Punjab,,none,0.73
+PB43,Punjab,,none,0.71
+PB44,Punjab,,none,0.46
+PB45,Punjab,,none,0.57
+PB46,Punjab,punjab-tarn-taran,exact,1.0
+PB47,Punjab,,none,0.55
+PB48,Punjab,,none,0.43
+PB49,Punjab,,none,0.5
+PB5,Punjab,punjab-firozpur,fuzzy,0.88
+PB50,Punjab,,none,0.62
+PB51,Punjab,,none,0.59
+PB52,Punjab,,none,0.57
+PB53,Punjab,,none,0.43
+PB54,Punjab,,none,0.53
+PB55,Punjab,,none,0.67
+PB56,Punjab,,none,0.71
+PB57,Punjab,,none,0.53
+PB58,Punjab,,none,0.5
+PB59,Punjab,,none,0.46
+PB6,Punjab,punjab-gurdaspur,exact,1.0
+PB60,Punjab,,none,0.47
+PB61,Punjab,,none,0.56
+PB62,Punjab,,none,0.46
+PB63,Punjab,,none,0.64
+PB64,Punjab,,none,0.6
+PB65,Punjab,punjab-sahibzada-ajit-singh-nagar,exact,1.0
+PB66,Punjab,,none,0.5
+PB67,Punjab,,none,0.62
+PB68,Punjab,,none,0.62
+PB69,Punjab,,none,0.57
+PB7,Punjab,punjab-hoshiarpur,exact,1.0
+PB70,Punjab,,none,0.35
+PB71,Punjab,,none,0.59
+PB72,Punjab,,none,0.67
+PB73,Punjab,,none,0.46
+PB74,Punjab,,none,0.57
+PB75,Punjab,,none,0.47
+PB76,Punjab,,none,0.59
+PB77,Punjab,,none,0.54
+PB78,Punjab,,none,0.67
+PB79,Punjab,,none,0.63
+PB8,Punjab,punjab-jalandhar,exact,1.0
+PB80,Punjab,,none,0.44
+PB81,Punjab,,none,0.53
+PB82,Punjab,,none,0.52
+PB83,Punjab,,none,0.6
+PB84,Punjab,,none,0.47
+PB85,Punjab,,none,0.71
+PB86,Punjab,,none,0.46
+PB87,Punjab,,none,0.55
+PB88,Punjab,,none,0.56
+PB89,Punjab,punjab-amritsar,contains,0.89
+PB9,Punjab,punjab-kapurthala,exact,1.0
+PB90,Punjab,punjab-jalandhar,contains,0.82
+PB91,Punjab,punjab-ludhiana,contains,0.67
+PB92,Punjab,,none,0.5
+PB93,Punjab,,none,0.31
+PB99,Punjab,,none,0.59
+RJ1,Rajasthan,rajasthan-ajmer,exact,1.0
+RJ10,Rajasthan,rajasthan-churu,exact,1.0
+RJ11,Rajasthan,rajasthan-dhaulpur,fuzzy,0.8
+RJ12,Rajasthan,rajasthan-dungarpur,exact,1.0
+RJ13,Rajasthan,rajasthan-ganganagar,contains,0.77
+RJ14,Rajasthan,rajasthan-jaipur,exact,1.0
+RJ141,Rajasthan,rajasthan-jaipur,contains,0.4
+RJ15,Rajasthan,rajasthan-jaisalmer,exact,1.0
+RJ16,Rajasthan,rajasthan-jalor,contains,0.83
+RJ17,Rajasthan,rajasthan-jhalawar,exact,1.0
+RJ18,Rajasthan,rajasthan-jhunjhunun,contains,0.9
+RJ19,Rajasthan,rajasthan-jodhpur,exact,1.0
+RJ2,Rajasthan,rajasthan-alwar,exact,1.0
+RJ20,Rajasthan,rajasthan-kota,exact,1.0
+RJ21,Rajasthan,rajasthan-nagaur,exact,1.0
+RJ22,Rajasthan,rajasthan-pali,exact,1.0
+RJ23,Rajasthan,rajasthan-sikar,exact,1.0
+RJ24,Rajasthan,rajasthan-sirohi,exact,1.0
+RJ25,Rajasthan,rajasthan-sawai-madhopur,exact,1.0
+RJ26,Rajasthan,rajasthan-tonk,exact,1.0
+RJ27,Rajasthan,rajasthan-udaipur,exact,1.0
+RJ28,Rajasthan,rajasthan-baran,exact,1.0
+RJ29,Rajasthan,rajasthan-dausa,exact,1.0
+RJ3,Rajasthan,rajasthan-banswara,exact,1.0
+RJ30,Rajasthan,rajasthan-rajsamand,exact,1.0
+RJ31,Rajasthan,rajasthan-hanumangarh,exact,1.0
+RJ32,Rajasthan,,none,0.62
+RJ33,Rajasthan,,none,0.67
+RJ34,Rajasthan,,none,0.77
+RJ35,Rajasthan,rajasthan-pratapgarh,exact,1.0
+RJ36,Rajasthan,,none,0.73
+RJ37,Rajasthan,,none,0.53
+RJ38,Rajasthan,,none,0.5
+RJ39,Rajasthan,,none,0.67
+RJ4,Rajasthan,rajasthan-barmer,exact,1.0
+RJ40,Rajasthan,rajasthan-bhilwara,fuzzy,0.8
+RJ41,Rajasthan,,none,0.6
+RJ42,Rajasthan,,none,0.67
+RJ43,Rajasthan,,none,0.73
+RJ44,Rajasthan,,none,0.7
+RJ46,Rajasthan,,none,0.53
+RJ47,Rajasthan,,none,0.55
+RJ48,Rajasthan,,none,0.5
+RJ49,Rajasthan,,none,0.55
+RJ5,Rajasthan,rajasthan-bharatpur,exact,1.0
+RJ50,Rajasthan,,none,0.44
+RJ51,Rajasthan,,none,0.62
+RJ52,Rajasthan,,none,0.62
+RJ53,Rajasthan,,none,0.46
+RJ54,Rajasthan,,none,0.46
+RJ55,Rajasthan,,none,0.5
+RJ56,Rajasthan,,none,0.5
+RJ57,Rajasthan,,none,0.59
+RJ58,Rajasthan,,none,0.62
+RJ59,Rajasthan,rajasthan-jaipur,exact,1.0
+RJ6,Rajasthan,rajasthan-bhilwara,exact,1.0
+RJ7,Rajasthan,rajasthan-bikaner,exact,1.0
+RJ8,Rajasthan,rajasthan-bundi,exact,1.0
+RJ9,Rajasthan,rajasthan-chittaurgarh,fuzzy,0.87
+SK1,Sikkim,,none,0.21
+SK2,Sikkim,,none,0.3
+SK3,Sikkim,,none,0.11
+SK5,Sikkim,,none,0.22
+SK6,Sikkim,,none,0.32
+SK7,Sikkim,,none,0.11
+TN1,Tamil Nadu,tamil-nadu-chennai,exact,1.0
+TN10,Tamil Nadu,tamil-nadu-chennai,exact,1.0
+TN18,Tamil Nadu,,none,0.43
+TN19,Tamil Nadu,tamil-nadu-chengalputtu,fuzzy,0.92
+TN2,Tamil Nadu,tamil-nadu-chennai,exact,1.0
+TN20,Tamil Nadu,tamil-nadu-thiruvallur,fuzzy,0.95
+TN21,Tamil Nadu,tamil-nadu-kancheepuram,exact,1.0
+TN22,Tamil Nadu,,none,0.7
+TN23,Tamil Nadu,tamil-nadu-vellore,exact,1.0
+TN24,Tamil Nadu,tamil-nadu-krishnagiri,exact,1.0
+TN25,Tamil Nadu,tamil-nadu-tiruvannamalai,exact,1.0
+TN28,Tamil Nadu,tamil-nadu-namakkal,exact,1.0
+TN29,Tamil Nadu,tamil-nadu-dharmapuri,exact,1.0
+TN3,Tamil Nadu,tamil-nadu-chennai,exact,1.0
+TN30,Tamil Nadu,tamil-nadu-salem,exact,1.0
+TN31,Tamil Nadu,tamil-nadu-cuddalore,exact,1.0
+TN32,Tamil Nadu,tamil-nadu-viluppuram,exact,1.0
+TN33,Tamil Nadu,tamil-nadu-erode,exact,1.0
+TN34,Tamil Nadu,,none,0.52
+TN36,Tamil Nadu,,none,0.48
+TN37,Tamil Nadu,tamil-nadu-coimbatore,exact,1.0
+TN38,Tamil Nadu,tamil-nadu-coimbatore,exact,1.0
+TN39,Tamil Nadu,tamil-nadu-tiruppur,exact,1.0
+TN4,Tamil Nadu,tamil-nadu-chennai,exact,1.0
+TN40,Tamil Nadu,,none,0.38
+TN41,Tamil Nadu,,none,0.6
+TN42,Tamil Nadu,tamil-nadu-tiruppur,exact,1.0
+TN43,Tamil Nadu,,none,0.38
+TN45,Tamil Nadu,tamil-nadu-tiruchirappalli,contains,0.47
+TN46,Tamil Nadu,tamil-nadu-perambalur,exact,1.0
+TN47,Tamil Nadu,tamil-nadu-karur,exact,1.0
+TN48,Tamil Nadu,,none,0.67
+TN49,Tamil Nadu,tamil-nadu-thanjavur,exact,1.0
+TN5,Tamil Nadu,tamil-nadu-chennai,exact,1.0
+TN50,Tamil Nadu,tamil-nadu-thiruvarur,fuzzy,0.95
+TN508,Tamil Nadu,,none,0.63
+TN51,Tamil Nadu,tamil-nadu-nagapattinam,exact,1.0
+TN511,Tamil Nadu,,none,0.53
+TN512,Tamil Nadu,,none,0.56
+TN513,Tamil Nadu,,none,0.56
+TN514,Tamil Nadu,,none,0.45
+TN515,Tamil Nadu,,none,0.67
+TN516,Tamil Nadu,,none,0.67
+TN517,Tamil Nadu,,none,0.62
+TN52,Tamil Nadu,,none,0.7
+TN526,Tamil Nadu,,none,0.63
+TN527,Tamil Nadu,tamil-nadu-karur,fuzzy,0.8
+TN535,Tamil Nadu,,none,0.59
+TN54,Tamil Nadu,tamil-nadu-salem,exact,1.0
+TN544,Tamil Nadu,,none,0.57
+TN55,Tamil Nadu,tamil-nadu-pudukkottai,fuzzy,0.95
+TN553,Tamil Nadu,,none,0.64
+TN56,Tamil Nadu,,none,0.59
+TN562,Tamil Nadu,,none,0.67
+TN57,Tamil Nadu,tamil-nadu-dindigul,exact,1.0
+TN571,Tamil Nadu,,none,0.58
+TN577,Tamil Nadu,,none,0.47
+TN578,Tamil Nadu,,none,0.5
+TN579,Tamil Nadu,,none,0.52
+TN58,Tamil Nadu,tamil-nadu-madurai,exact,1.0
+TN580,Tamil Nadu,,none,0.53
+TN581,Tamil Nadu,,none,0.56
+TN582,Tamil Nadu,tamil-nadu-cuddalore,fuzzy,0.82
+TN583,Tamil Nadu,,none,0.73
+TN584,Tamil Nadu,,none,0.62
+TN585,Tamil Nadu,,none,0.5
+TN586,Tamil Nadu,,none,0.52
+TN587,Tamil Nadu,,none,0.73
+TN588,Tamil Nadu,,none,0.52
+TN589,Tamil Nadu,tamil-nadu-mayiladuthurai,exact,1.0
+TN59,Tamil Nadu,tamil-nadu-madurai,exact,1.0
+TN590,Tamil Nadu,,none,0.5
+TN591,Tamil Nadu,,none,0.6
+TN592,Tamil Nadu,,none,0.53
+TN593,Tamil Nadu,,none,0.6
+TN594,Tamil Nadu,tamil-nadu-dharmapuri,fuzzy,0.8
+TN595,Tamil Nadu,,none,0.58
+TN596,Tamil Nadu,,none,0.42
+TN597,Tamil Nadu,,none,0.46
+TN598,Tamil Nadu,,none,0.67
+TN599,Tamil Nadu,,none,0.57
+TN6,Tamil Nadu,tamil-nadu-chennai,exact,1.0
+TN60,Tamil Nadu,tamil-nadu-theni,exact,1.0
+TN600,Tamil Nadu,,none,0.53
+TN601,Tamil Nadu,,none,0.48
+TN602,Tamil Nadu,,none,0.57
+TN603,Tamil Nadu,,none,0.6
+TN604,Tamil Nadu,,none,0.59
+TN605,Tamil Nadu,,none,0.5
+TN606,Tamil Nadu,,none,0.64
+TN607,Tamil Nadu,,none,0.5
+TN608,Tamil Nadu,,none,0.63
+TN609,Tamil Nadu,,none,0.59
+TN61,Tamil Nadu,tamil-nadu-ariyalur,exact,1.0
+TN610,Tamil Nadu,,none,0.46
+TN611,Tamil Nadu,,none,0.5
+TN612,Tamil Nadu,,none,0.67
+TN613,Tamil Nadu,,none,0.53
+TN614,Tamil Nadu,,none,0.61
+TN615,Tamil Nadu,tamil-nadu-kallakurichi,exact,1.0
+TN616,Tamil Nadu,,none,0.47
+TN617,Tamil Nadu,,none,0.5
+TN620,Tamil Nadu,,none,0.5
+TN621,Tamil Nadu,,none,0.62
+TN622,Tamil Nadu,,none,0.7
+TN623,Tamil Nadu,,none,0.5
+TN624,Tamil Nadu,tamil-nadu-tirupathur,fuzzy,0.86
+TN625,Tamil Nadu,,none,0.48
+TN626,Tamil Nadu,,none,0.5
+TN627,Tamil Nadu,,none,0.47
+TN628,Tamil Nadu,,none,0.67
+TN629,Tamil Nadu,,none,0.78
+TN63,Tamil Nadu,tamil-nadu-sivaganga,contains,0.9
+TN630,Tamil Nadu,,none,0.59
+TN631,Tamil Nadu,,none,0.43
+TN632,Tamil Nadu,,none,0.75
+TN633,Tamil Nadu,,none,0.56
+TN634,Tamil Nadu,,none,0.6
+TN635,Tamil Nadu,,none,0.57
+TN636,Tamil Nadu,,none,0.52
+TN637,Tamil Nadu,,none,0.56
+TN638,Tamil Nadu,,none,0.48
+TN639,Tamil Nadu,,none,0.67
+TN64,Tamil Nadu,tamil-nadu-madurai,exact,1.0
+TN640,Tamil Nadu,,none,0.6
+TN641,Tamil Nadu,,none,0.5
+TN643,Tamil Nadu,,none,0.52
+TN644,Tamil Nadu,,none,0.56
+TN65,Tamil Nadu,tamil-nadu-ramanathapuram,exact,1.0
+TN66,Tamil Nadu,tamil-nadu-coimbatore,exact,1.0
+TN67,Tamil Nadu,tamil-nadu-virudhunagar,exact,1.0
+TN68,Tamil Nadu,,none,0.42
+TN69,Tamil Nadu,tamil-nadu-thoothukkudi,fuzzy,0.96
+TN7,Tamil Nadu,tamil-nadu-chennai,exact,1.0
+TN70,Tamil Nadu,,none,0.43
+TN72,Tamil Nadu,tamil-nadu-tirunelveli,exact,1.0
+TN73,Tamil Nadu,tamil-nadu-ranipet,exact,1.0
+TN74,Tamil Nadu,,none,0.5
+TN75,Tamil Nadu,,none,0.58
+TN76,Tamil Nadu,tamil-nadu-tenkasi,exact,1.0
+TN81,Tamil Nadu,tamil-nadu-tiruchirappalli,contains,0.47
+TN85,Tamil Nadu,,none,0.6
+TN86,Tamil Nadu,tamil-nadu-erode,exact,1.0
+TN88,Tamil Nadu,tamil-nadu-namakkal,exact,1.0
+TN9,Tamil Nadu,tamil-nadu-chennai,exact,1.0
+TN90,Tamil Nadu,tamil-nadu-salem,exact,1.0
+TN99,Tamil Nadu,tamil-nadu-coimbatore,exact,1.0
+TG1,Telangana,telangana-adilabad,exact,1.0
+TG10,Telangana,telangana-hydrabad,fuzzy,0.84
+TG102,Telangana,,none,0.71
+TG107,Telangana,,none,0.43
+TG108,Telangana,,none,0.53
+TG11,Telangana,telangana-hydrabad,fuzzy,0.84
+TG116,Telangana,,none,0.5
+TG12,Telangana,telangana-hydrabad,fuzzy,0.84
+TG121,Telangana,,none,0.5
+TG122,Telangana,,none,0.56
+TG128,Telangana,,none,0.57
+TG129,Telangana,,none,0.46
+TG13,Telangana,telangana-hydrabad,fuzzy,0.84
+TG131,Telangana,,none,0.57
+TG132,Telangana,,none,0.47
+TG134,Telangana,,none,0.5
+TG15,Telangana,telangana-sangareddy,exact,1.0
+TG16,Telangana,telangana-nizamabad,exact,1.0
+TG17,Telangana,telangana-kamareddy,exact,1.0
+TG18,Telangana,telangana-nirmal,exact,1.0
+TG19,Telangana,telangana-mancherial,exact,1.0
+TG2,Telangana,telangana-karimnagar,exact,1.0
+TG20,Telangana,telangana-komaram-bheem,fuzzy,0.96
+TG207,Telangana,,none,0.67
+TG208,Telangana,,none,0.5
+TG21,Telangana,telangana-jagtial,fuzzy,0.8
+TG215,Telangana,,none,0.71
+TG216,Telangana,,none,0.53
+TG22,Telangana,telangana-peddapalli,exact,1.0
+TG23,Telangana,telangana-rajanna-sircilla,contains,0.47
+TG24,Telangana,telangana-warangal-u,exact,1.0
+TG25,Telangana,telangana-jayashankar,exact,1.0
+TG26,Telangana,telangana-mahabubabad,exact,1.0
+TG27,Telangana,telangana-jangaon,fuzzy,0.86
+TG28,Telangana,telangana-bhadradri,exact,1.0
+TG29,Telangana,telangana-suryapet,exact,1.0
+TG3,Telangana,,none,0.56
+TG30,Telangana,telangana-yadadri-bhongiri,contains,0.47
+TG304,Telangana,,none,0.6
+TG305,Telangana,,none,0.53
+TG31,Telangana,telangana-nagarkurnool,exact,1.0
+TG32,Telangana,telangana-wanaparthy,exact,1.0
+TG33,Telangana,telangana-jogulamba,exact,1.0
+TG34,Telangana,telangana-vikarabad,exact,1.0
+TG35,Telangana,telangana-medak,exact,1.0
+TG36,Telangana,telangana-siddipet,exact,1.0
+TG37,Telangana,telangana-mulugu,exact,1.0
+TG38,Telangana,telangana-narayanpet,exact,1.0
+TG4,Telangana,telangana-khammam,exact,1.0
+TG404,Telangana,,none,0.5
+TG415,Telangana,,none,0.55
+TG5,Telangana,telangana-nalgonda,exact,1.0
+TG6,Telangana,telangana-mahabubnagar,fuzzy,0.88
+TG7,Telangana,telangana-rangareddy,exact,1.0
+TG8,Telangana,telangana-medchal,exact,1.0
+TG9,Telangana,telangana-hydrabad,fuzzy,0.84
+TR1,Tripura,tripura-west-tripura,contains,0.79
+TR2,Tripura,tripura-unokoti,fuzzy,0.86
+TR3,Tripura,tripura-gomati,exact,1.0
+TR4,Tripura,tripura-dhalai,exact,1.0
+TR5,Tripura,tripura-north-tripura,exact,1.0
+TR6,Tripura,tripura-khowai,exact,1.0
+TR7,Tripura,tripura-sipahijula,fuzzy,0.8
+TR8,Tripura,tripura-south-tripura,exact,1.0
+UP11,Uttar Pradesh,uttar-pradesh-saharanpur,exact,1.0
+UP12,Uttar Pradesh,uttar-pradesh-muzaffarnagar,exact,1.0
+UP13,Uttar Pradesh,uttar-pradesh-bulandshahr,fuzzy,0.96
+UP14,Uttar Pradesh,uttar-pradesh-ghaziabad,exact,1.0
+UP15,Uttar Pradesh,uttar-pradesh-meerut,exact,1.0
+UP16,Uttar Pradesh,uttar-pradesh-gautam-buddha-nagar,alias,1.0
+UP17,Uttar Pradesh,uttar-pradesh-baghpat,exact,1.0
+UP19,Uttar Pradesh,uttar-pradesh-samli,fuzzy,0.91
+UP20,Uttar Pradesh,uttar-pradesh-bijnor,exact,1.0
+UP21,Uttar Pradesh,uttar-pradesh-moradabad,exact,1.0
+UP22,Uttar Pradesh,uttar-pradesh-rampur,exact,1.0
+UP23,Uttar Pradesh,,none,0.67
+UP24,Uttar Pradesh,uttar-pradesh-budaun,fuzzy,0.83
+UP25,Uttar Pradesh,uttar-pradesh-bareilly,exact,1.0
+UP26,Uttar Pradesh,uttar-pradesh-pilibhit,exact,1.0
+UP27,Uttar Pradesh,uttar-pradesh-shahjahanpur,fuzzy,0.96
+UP30,Uttar Pradesh,uttar-pradesh-hardoi,exact,1.0
+UP31,Uttar Pradesh,uttar-pradesh-kheri,contains,0.36
+UP32,Uttar Pradesh,uttar-pradesh-lucknow,contains,0.58
+UP321,Uttar Pradesh,uttar-pradesh-lucknow,contains,0.41
+UP33,Uttar Pradesh,uttar-pradesh-rae-bareli,alias,1.0
+UP34,Uttar Pradesh,uttar-pradesh-sitapur,exact,1.0
+UP35,Uttar Pradesh,uttar-pradesh-unnao,exact,1.0
+UP36,Uttar Pradesh,uttar-pradesh-amethi,exact,1.0
+UP37,Uttar Pradesh,uttar-pradesh-hapur,exact,1.0
+UP38,Uttar Pradesh,uttar-pradesh-sambhal,exact,1.0
+UP40,Uttar Pradesh,uttar-pradesh-bahraich,exact,1.0
+UP41,Uttar Pradesh,uttar-pradesh-bara-banki,exact,1.0
+UP42,Uttar Pradesh,,none,0.5
+UP43,Uttar Pradesh,uttar-pradesh-gonda,exact,1.0
+UP44,Uttar Pradesh,uttar-pradesh-sultanpur,exact,1.0
+UP45,Uttar Pradesh,,none,0.71
+UP46,Uttar Pradesh,uttar-pradesh-shrawasti,fuzzy,0.89
+UP47,Uttar Pradesh,uttar-pradesh-balrampur-2,exact,1.0
+UP50,Uttar Pradesh,uttar-pradesh-azamgarh,exact,1.0
+UP51,Uttar Pradesh,uttar-pradesh-basti,exact,1.0
+UP52,Uttar Pradesh,uttar-pradesh-deoria,exact,1.0
+UP53,Uttar Pradesh,uttar-pradesh-gorakhpur,exact,1.0
+UP54,Uttar Pradesh,uttar-pradesh-mau,exact,1.0
+UP55,Uttar Pradesh,uttar-pradesh-siddharthnagar,exact,1.0
+UP56,Uttar Pradesh,uttar-pradesh-mahrajganj,fuzzy,0.95
+UP57,Uttar Pradesh,,none,0.62
+UP58,Uttar Pradesh,uttar-pradesh-sant-kabir-nagar,exact,1.0
+UP60,Uttar Pradesh,uttar-pradesh-ballia,exact,1.0
+UP61,Uttar Pradesh,uttar-pradesh-ghazipur,exact,1.0
+UP62,Uttar Pradesh,uttar-pradesh-jaunpur,exact,1.0
+UP63,Uttar Pradesh,uttar-pradesh-mirzapur,exact,1.0
+UP64,Uttar Pradesh,uttar-pradesh-sonbhadra,exact,1.0
+UP65,Uttar Pradesh,uttar-pradesh-varanasi,exact,1.0
+UP66,Uttar Pradesh,,none,0.77
+UP67,Uttar Pradesh,uttar-pradesh-chandauli,exact,1.0
+UP70,Uttar Pradesh,uttar-pradesh-agra,contains,0.44
+UP71,Uttar Pradesh,uttar-pradesh-fatehpur,fuzzy,0.94
+UP72,Uttar Pradesh,uttar-pradesh-pratapgarh,exact,1.0
+UP73,Uttar Pradesh,uttar-pradesh-kaushambi,exact,1.0
+UP74,Uttar Pradesh,uttar-pradesh-kannauj,exact,1.0
+UP75,Uttar Pradesh,uttar-pradesh-etawah,exact,1.0
+UP76,Uttar Pradesh,uttar-pradesh-farrukhabad,exact,1.0
+UP77,Uttar Pradesh,uttar-pradesh-kanpur-dehat,exact,1.0
+UP78,Uttar Pradesh,uttar-pradesh-kanpur-nagar,exact,1.0
+UP79,Uttar Pradesh,uttar-pradesh-auraiya,exact,1.0
+UP80,Uttar Pradesh,uttar-pradesh-agra,exact,1.0
+UP81,Uttar Pradesh,uttar-pradesh-aligarh,exact,1.0
+UP82,Uttar Pradesh,uttar-pradesh-etah,exact,1.0
+UP83,Uttar Pradesh,uttar-pradesh-firozabad,fuzzy,0.89
+UP84,Uttar Pradesh,uttar-pradesh-mainpuri,exact,1.0
+UP85,Uttar Pradesh,uttar-pradesh-mathura,exact,1.0
+UP86,Uttar Pradesh,,none,0.71
+UP87,Uttar Pradesh,,none,0.59
+UP90,Uttar Pradesh,uttar-pradesh-banda,contains,0.62
+UP91,Uttar Pradesh,uttar-pradesh-hamirpur,exact,1.0
+UP92,Uttar Pradesh,,none,0.6
+UP93,Uttar Pradesh,uttar-pradesh-jhansi,contains,0.67
+UP94,Uttar Pradesh,uttar-pradesh-lalitpur,exact,1.0
+UP95,Uttar Pradesh,uttar-pradesh-mahoba,exact,1.0
+UP96,Uttar Pradesh,uttar-pradesh-chitrakoot,exact,1.0
+UK1,Uttarakhand,uttarakhand-almora,exact,1.0
+UK10,Uttarakhand,uttarakhand-uttarkashi,exact,1.0
+UK11,Uttarakhand,,none,0.73
+UK12,Uttarakhand,,none,0.4
+UK13,Uttarakhand,uttarakhand-rudraprayag,exact,1.0
+UK14,Uttarakhand,,none,0.42
+UK15,Uttarakhand,,none,0.57
+UK16,Uttarakhand,,none,0.48
+UK17,Uttarakhand,,none,0.31
+UK18,Uttarakhand,,none,0.56
+UK19,Uttarakhand,,none,0.61
+UK2,Uttarakhand,uttarakhand-bageshwar,exact,1.0
+UK20,Uttarakhand,,none,0.5
+UK3,Uttarakhand,,none,0.42
+UK4,Uttarakhand,,none,0.67
+UK5,Uttarakhand,uttarakhand-pithoragarh,exact,1.0
+UK6,Uttarakhand,uttarakhand-udham-singh-nagar,exact,1.0
+UK7,Uttarakhand,uttarakhand-dehradun,exact,1.0
+UK8,Uttarakhand,uttarakhand-hardwar,fuzzy,0.93
+UK9,Uttarakhand,uttarakhand-tehri-garhwal,contains,0.42
+WB1,West Bengal,west-bengal-kolkata,contains,0.7
+WB11,West Bengal,,none,0.73
+WB13,West Bengal,,none,0.5
+WB15,West Bengal,,none,0.5
+WB17,West Bengal,,none,0.55
+WB18,West Bengal,,none,0.59
+WB19,West Bengal,,none,0.62
+WB21,West Bengal,,none,0.56
+WB23,West Bengal,,none,0.44
+WB25,West Bengal,,none,0.59
+WB27,West Bengal,,none,0.57
+WB29,West Bengal,,none,0.38
+WB31,West Bengal,,none,0.55
+WB32,West Bengal,,none,0.73
+WB33,West Bengal,,none,0.75
+WB35,West Bengal,,none,0.57
+WB37,West Bengal,,none,0.77
+WB39,West Bengal,,none,0.43
+WB41,West Bengal,,none,0.55
+WB43,West Bengal,,none,0.57
+WB45,West Bengal,,none,0.53
+WB47,West Bengal,,none,0.5
+WB49,West Bengal,west-bengal-jhargram,exact,1.0
+WB5,West Bengal,,none,0.5
+WB50,West Bengal,,none,0.55
+WB51,West Bengal,west-bengal-nadia,exact,1.0
+WB52,West Bengal,,none,0.5
+WB53,West Bengal,west-bengal-birbhum,exact,1.0
+WB55,West Bengal,west-bengal-puruliya,fuzzy,0.93
+WB57,West Bengal,west-bengal-murshidabad,exact,1.0
+WB59,West Bengal,west-bengal-uttar-dinajpur,exact,1.0
+WB61,West Bengal,west-bengal-dakshin-dinajpur,exact,1.0
+WB63,West Bengal,,none,0.74
+WB65,West Bengal,west-bengal-maldah,contains,0.83
+WB67,West Bengal,west-bengal-bankura,exact,1.0
+WB69,West Bengal,west-bengal-alipurduar,exact,1.0
+WB7,West Bengal,,none,0.43
+WB71,West Bengal,west-bengal-jalpaiguri,exact,1.0
+WB73,West Bengal,,none,0.67
+WB75,West Bengal,,none,0.67
+WB76,West Bengal,west-bengal-darjiling,fuzzy,0.84
+WB78,West Bengal,west-bengal-kalimpong,exact,1.0
+WB80,West Bengal,,none,0.43
+WB81,West Bengal,,none,0.52
+WB83,West Bengal,,none,0.46
+WB85,West Bengal,,none,0.45
+WB87,West Bengal,,none,0.5
+WB89,West Bengal,,none,0.5
+WB9,West Bengal,,none,0.55
+WB91,West Bengal,,none,0.48
+WB93,West Bengal,,none,0.56
+WB95,West Bengal,,none,0.57
+WB97,West Bengal,,none,0.38
+WB99,West Bengal,,none,0.6

@@ -1,0 +1,58 @@
+[
+ {
+  "id": "corridor-path",
+  "label": "Corridor paths are measured geometry",
+  "value": "Existing segments of each NH number from the MORTH/GatiShakti national highway layer (dated June 2022), sampled every 2 km and joined by a minimum spanning tree across holes of up to 150 km; the corridor is the tree's longest path. Length is measured on the full path; the drawn path is simplified to about 200 m. Top 18: the longest NH numbers plus major trunk routes. Segments under construction or proposed are excluded; the file has holes, so bridged stretches are straight lines. Lengths run about 5 to 12% below published figures for NH 44, 48 and 27.",
+  "source": "data/raw/roads/morth_national_highways.parquet; scripts/pipeline/04_corridors.py",
+  "kind": "measured"
+ },
+ {
+  "id": "corridor-buffer",
+  "label": "Charger counts as 'near' a corridor",
+  "value": "Within 5 km of the highway path (a 0.5 km sampled path, so distances are good to about 0.25 km)",
+  "source": "scripts/pipeline/04_corridors.py",
+  "kind": "assumed"
+ },
+ {
+  "id": "corridor-spacing",
+  "label": "Highway charger spacing norm",
+  "value": "25 km. The guideline reads 'on both sides of highways'; a station within the buffer on either side is counted as serving the corridor, so the add-count is per corridor, not per carriageway side.",
+  "source": "assumptions_gap.json norms.highwaySpacingKm",
+  "kind": "norm"
+ },
+ {
+  "id": "corridor-to-add",
+  "label": "Stations to add on a corridor",
+  "value": "Sum over gaps longer than the norm of ceil(gap/norm) - 1",
+  "source": "scripts/pipeline/04_corridors.py",
+  "kind": "modelled"
+ },
+ {
+  "id": "site-radius",
+  "label": "Site service radius",
+  "value": "1.5 km (half of the 3 km urban grid cell)",
+  "source": "assumptions_gap.json norms.urbanSpacingKm",
+  "kind": "norm"
+ },
+ {
+  "id": "site-demand",
+  "label": "Site demand points",
+  "value": "District EVs spread over up to 300 random points drawn around the district centroid (sd = quarter of the district's linear size); points within the radius of a listed charger are treated as served",
+  "source": "scripts/pipeline/04_corridors.py",
+  "kind": "assumed"
+ },
+ {
+  "id": "site-candidates",
+  "label": "Site candidates",
+  "value": "OSM substation locations (grid proximity as a proxy for spare capacity) and toll plazas, inside the district; greedy maximal coverage, up to 4 sites in each of the 60 districts with the worst gap score; plus, for the 3 longest gaps on each corridor, the highway point nearest the midpoint, moved to an OSM fuel station within 300 m of the road and 2 km of the midpoint when one exists",
+  "source": "data/raw/grid/osm_substations.json; morth_toll_plazas.parquet; OSM fuel stations in data/data.csv",
+  "kind": "modelled"
+ },
+ {
+  "id": "site-type",
+  "label": "Charger type and connectors",
+  "value": "Corridor sites dc60 (dc120 where the gap exceeds 3x the norm); urban sites dc30 if they cover 150 or more EVs, else ac; connectors ac 4, dc30 2, dc60 4, dc120 4",
+  "source": "scripts/pipeline/04_corridors.py",
+  "kind": "assumed"
+ }
+]

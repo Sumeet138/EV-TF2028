@@ -4,3 +4,15 @@ dist
 *.log
 .DS_Store
 .firecrawl/
+*.tsbuildinfo
+tmp/
+# BEE snapshot holds contact names and phone numbers: never publish it
+data/raw/chargers/bee_evyatra_snapshot_2024-12.csv
+# Large raw tables, re-download per data/README.md
+data/raw/vahan_rto/
+data/raw/roads/morth_national_highways.parquet
+__pycache__/
+.claude/
+skills-lock.json
+reports/
+research_notes/
