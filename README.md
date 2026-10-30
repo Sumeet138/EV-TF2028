@@ -66,8 +66,6 @@ Three raw inputs are not in git, so the first pipeline steps (`scripts/build_dat
 | data.gov.in state-wise PCS tables | Full download behind a form + CAPTCHA; only first 10 rows kept in `raw/` |
 | OSM bus and rail stations | Overpass servers at capacity |
 | Other operators (ChargeZone, Jio-bp pulse, Ather Grid, Bolt.Earth, Kazam) and most state portals | No public web map API, or not tried (the operator sweep stopped early) |
-| PM GatiShakti MMLP lines and polygons | In `raw/roads/`, not used |
-| RTO `vehicle_class.csv`, `vehicle_category.csv` | No fuel column, not used |
 | Geofabrik India OSM extract | 1.7 GB, skipped; targeted Overpass queries used instead |
 
 ## Run it
@@ -82,6 +80,6 @@ npm install && npm run dev   # client :5173, server :5000
 ## Project status
 
 - Done: data collection (five charger sources plus official counts, RTO-level VAHAN, National Highway geometry), integration (31,259 deduplicated stations on 735 districts, 59.3% of the official 52,718), EV allocation (RTO-based for 611 districts, proxy for 124), per-state coverage, gap score, forecast with a low to high sensitivity range, corridors on real geometry, sites, web app and read-only API.
-- Round 1 submission: `docs/round1-submission.pdf` (source `docs/round1-submission.md`); demo: `docs/demo-script.md`.
+- Demo script: `docs/demo-script.md`.
 - Limits: district EVs are modelled (the RTO to district match is by name, 78.7% of RTO EVs); BEE data is from Dec 2024 and may include closed stations; corridor geometry is from June 2022 with holes; the forecast depends on assumed utilisation and public charging share, so it is shown as a range.
 - Still open: operator feeds, the live EV Yatra or licensed Dataful list, RTO crosswalk validation, licences for BEE and scraped sources.

@@ -32,7 +32,7 @@ Fetch these into `data/raw/` before running the build and pipeline. Source detai
 | File | Why it is not in git | Needed by |
 |---|---|---|
 | `raw/chargers/bee_evyatra_snapshot_2024-12.csv` | Holds contact names and phone numbers; no licence on the public GitHub copy | `scripts/build_data_csv.py` (contact columns are not merged) |
-| `raw/vahan_rto/` (`fuel.csv`, `vehicle_class.csv`, `vehicle_category.csv`) | Large (India Data Portal, ODC-BY). Exclude RTO code `HR207`: it is an all-India total | `scripts/build_data_csv.py`, pipeline step 02 |
+| `raw/vahan_rto/fuel.csv` | Large (India Data Portal, ODC-BY). Exclude RTO code `HR207`: it is an all-India total | `scripts/build_data_csv.py`, pipeline step 02 |
 | `raw/roads/morth_national_highways.parquet` | Large (PM GatiShakti, June 2022) | pipeline step 04 |
 
 Without them the build stops at those inputs.
